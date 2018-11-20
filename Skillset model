@@ -12,13 +12,24 @@ Helps us model and understand the triggering phenomenon.
 
 Helps us estimate the closest possible ideal distribution of different types of users in the system for efficient knowledge building.
 
+It may be used to define the policies of incentivization based on the ways particular users interact with the system.
+
+Helps us predict whether knowledge in a system will keep on increasing or achieve an steady state, by extrapolation.
+
 
 --------------------------------------------------------------------------------------------------------------------------
 Weaknesses:
 
 1. Doesn't take into consideration the fact that new users keep on adding to the system in real world Knowledge Building platforms.
 
-2. Focussed solely on the knowledge being built inside the system and outside contributions are neglected.
+2. It is not always necessary that knowledge produced at time 't' has been triggered by knowledge produced at time 't-1' only.
+
+3. Focussed solely on the knowledge being built inside the system and outside contributions are neglected.
+
+4. Even if we find out the right 'mix' of users in right proportion to produce the maximum knowledge, it may defeat the purpose of crowdsourced knowledge building since then it will be the 'moderators' deciding who works together and who doesn't instead of the crowd.
+For instance, Quora moderators collapse answers that contain only pictures no matter the quality of answers. Vesting such powers in moderators can prove to be a double edged sword.
+
+
 
 --------------------------------------------------------------------------------------------------------------------------
 
@@ -27,4 +38,11 @@ How can we validate the model?
 To validate the model:
 
 1. We'll need datasets (5-10 in no.) of sites making use of crowdsourcing for knowledge building.
+
+2. Then, by analysing the datasets through python making use of model provided in the paper, we'll plot knowledge as a function of time for both cases [spectral radius (p) greater than or equal to and lesser than or equal to 1 ].
+
+Note: Plotting of 3-D graph can be done using MATLAB after we have the required data since we'll need it to find out maxima using Hill climbing algorithm for ideal distribution of users in a knowledge building system.
+
+3. Using the graphs obtained, we can judge whether the provided model is valid or not. 
+
 
