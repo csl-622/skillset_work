@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tags>
+  <row Id="1" TagName="paper" Count="30" ExcerptPostId="245" WikiPostId="244" />
+  <row Id="2" TagName="watercoloring" Count="6" ExcerptPostId="110" WikiPostId="109" />
+  <row Id="3" TagName="sketching" Count="2" ExcerptPostId="697" WikiPostId="696" />
+  <row Id="4" TagName="sewing" Count="12" ExcerptPostId="370" WikiPostId="369" />
+  <row Id="6" TagName="prosthetics" Count="1" />
+  <row Id="7" TagName="latex" Count="1" />
+  <row Id="8" TagName="preservation" Count="12" ExcerptPostId="388" WikiPostId="387" />
+  <row Id="9" TagName="miniatures" Count="1" />
+  <row Id="10" TagName="finish" Count="1" />
+  <row Id="12" TagName="knitting" Count="13" ExcerptPostId="148" WikiPostId="147" />
+  <row Id="15" TagName="food-safe" Count="2" ExcerptPostId="20" WikiPostId="19" />
+  <row Id="16" TagName="woodworking" Count="6" ExcerptPostId="275" WikiPostId="274" />
+  <row Id="17" TagName="blending" Count="2" />
+  <row Id="18" TagName="colored-pencils" Count="12" ExcerptPostId="678" WikiPostId="677" />
+  <row Id="20" TagName="framing" Count="3" />
+  <row Id="21" TagName="original-art" Count="1" />
+  <row Id="22" TagName="calligraphy" Count="7" ExcerptPostId="128" WikiPostId="127" />
+  <row Id="23" TagName="ink" Count="2" />
+  <row Id="26" TagName="paint" Count="10" ExcerptPostId="466" WikiPostId="465" />
+  <row Id="27" TagName="mixing" Count="1" />
+  <row Id="28" TagName="wood" Count="6" ExcerptPostId="441" WikiPostId="440" />
+  <row Id="29" TagName="plastic" Count="4" />
+  <row Id="30" TagName="toys" Count="2" />
+  <row Id="31" TagName="styrofoam" Count="2" />
+  <row Id="32" TagName="cutting" Count="6" ExcerptPostId="341" WikiPostId="340" />
+  <row Id="35" TagName="fabric" Count="3" />
+  <row Id="36" TagName="painting" Count="11" ExcerptPostId="539" WikiPostId="538" />
+  <row Id="37" TagName="oil-paint" Count="9" ExcerptPostId="131" WikiPostId="130" />
+  <row Id="38" TagName="yarn" Count="6" ExcerptPostId="429" WikiPostId="428" />
+  <row Id="39" TagName="gold-leaf" Count="2" />
+  <row Id="40" TagName="lapidary" Count="4" ExcerptPostId="58" WikiPostId="57" />
+  <row Id="41" TagName="knapping" Count="1" ExcerptPostId="60" WikiPostId="59" />
+  <row Id="47" TagName="crocheting" Count="14" ExcerptPostId="225" WikiPostId="224" />
+  <row Id="51" TagName="pencils" Count="10" ExcerptPostId="427" WikiPostId="426" />
+  <row Id="52" TagName="drawing" Count="25" ExcerptPostId="125" WikiPostId="124" />
+  <row Id="54" TagName="airbrush" Count="2" />
+  <row Id="55" TagName="acrylic-paint" Count="2" ExcerptPostId="701" WikiPostId="700" />
+  <row Id="56" TagName="oil-pastels" Count="4" ExcerptPostId="695" WikiPostId="694" />
+  <row Id="58" TagName="compressor" Count="1" />
+  <row Id="59" TagName="paint-brushes" Count="3" />
+  <row Id="60" TagName="kolinsky-saber" Count="1" />
+  <row Id="61" TagName="tunisian-crochet" Count="1" />
+  <row Id="62" TagName="knit" Count="1" />
+  <row Id="63" TagName="maintenance" Count="2" ExcerptPostId="278" WikiPostId="277" />
+  <row Id="64" TagName="polymer-clay" Count="6" ExcerptPostId="140" WikiPostId="139" />
+  <row Id="65" TagName="glass" Count="6" ExcerptPostId="566" WikiPostId="565" />
+  <row Id="66" TagName="drilling" Count="1" />
+  <row Id="67" TagName="safety" Count="4" ExcerptPostId="156" WikiPostId="155" />
+  <row Id="70" TagName="papercutting" Count="7" ExcerptPostId="123" WikiPostId="122" />
+  <row Id="71" TagName="sculpting" Count="4" ExcerptPostId="521" WikiPostId="520" />
+  <row Id="74" TagName="allergies" Count="3" ExcerptPostId="162" WikiPostId="161" />
+  <row Id="75" TagName="fiber-crafts" Count="4" ExcerptPostId="158" WikiPostId="157" />
+  <row Id="76" TagName="casting-on" Count="2" ExcerptPostId="480" WikiPostId="479" />
+  <row Id="77" TagName="origami" Count="11" ExcerptPostId="160" WikiPostId="159" />
+  <row Id="79" TagName="felt" Count="3" ExcerptPostId="169" WikiPostId="168" />
+  <row Id="80" TagName="markers" Count="2" />
+  <row Id="82" TagName="wood-carving" Count="2" />
+  <row Id="83" TagName="light" Count="1" />
+  <row Id="84" TagName="color" Count="4" ExcerptPostId="431" WikiPostId="430" />
+  <row Id="85" TagName="damage" Count="1" />
+  <row Id="86" TagName="canvas" Count="3" ExcerptPostId="537" WikiPostId="536" />
+  <row Id="89" TagName="wood-types" Count="1" />
+  <row Id="90" TagName="turning" Count="1" />
+  <row Id="91" TagName="lathe" Count="1" />
+  <row Id="92" TagName="crease-patterns" Count="1" />
+  <row Id="93" TagName="woodless-colored-pencil" Count="1" />
+  <row Id="94" TagName="preparation" Count="2" />
+  <row Id="95" TagName="lamination" Count="1" />
+  <row Id="96" TagName="book-binding" Count="3" />
+  <row Id="97" TagName="pixel-arts" Count="1" />
+  <row Id="98" TagName="clothing" Count="7" ExcerptPostId="339" WikiPostId="338" />
+  <row Id="99" TagName="pencil-shading" Count="5" ExcerptPostId="674" WikiPostId="673" />
+  <row Id="100" TagName="charcoal" Count="5" ExcerptPostId="517" WikiPostId="516" />
+  <row Id="101" TagName="chalk-pastels" Count="3" />
+  <row Id="102" TagName="metalworking" Count="2" ExcerptPostId="527" WikiPostId="526" />
+  <row Id="103" TagName="knives" Count="1" />
+  <row Id="104" TagName="storage" Count="5" ExcerptPostId="307" WikiPostId="306" />
+  <row Id="105" TagName="crochet-hooks" Count="1" ExcerptPostId="368" WikiPostId="367" />
+  <row Id="106" TagName="knitting-needles" Count="1" />
+  <row Id="107" TagName="tool-identification" Count="2" ExcerptPostId="363" WikiPostId="362" />
+  <row Id="108" TagName="tool-selection" Count="16" ExcerptPostId="272" WikiPostId="271" />
+  <row Id="109" TagName="material-selection" Count="5" ExcerptPostId="437" WikiPostId="436" />
+  <row Id="111" TagName="terminology" Count="6" ExcerptPostId="439" WikiPostId="438" />
+  <row Id="112" TagName="protective-gear" Count="1" />
+  <row Id="115" TagName="lace" Count="1" />
+  <row Id="116" TagName="jewelry" Count="2" />
+  <row Id="117" TagName="wire" Count="4" ExcerptPostId="519" WikiPostId="518" />
+  <row Id="118" TagName="wire-wrapping" Count="2" />
+  <row Id="119" TagName="gilding" Count="1" />
+  <row Id="120" TagName="knit-fabric" Count="1" />
+  <row Id="121" TagName="craft-sticks" Count="1" />
+  <row Id="124" TagName="printing" Count="3" />
+  <row Id="125" TagName="adhesives" Count="18" ExcerptPostId="453" WikiPostId="452" />
+  <row Id="126" TagName="carving" Count="1" />
+  <row Id="127" TagName="cork" Count="1" />
+  <row Id="128" TagName="posters" Count="2" />
+  <row Id="130" TagName="upcycling" Count="3" ExcerptPostId="337" WikiPostId="336" />
+  <row Id="132" TagName="armour-making" Count="1" />
+  <row Id="133" TagName="protections" Count="1" />
+  <row Id="134" TagName="embroidery" Count="2" />
+  <row Id="135" TagName="abs" Count="1" ExcerptPostId="433" WikiPostId="432" />
+  <row Id="136" TagName="ceramics" Count="2" ExcerptPostId="535" WikiPostId="534" />
+  <row Id="137" TagName="kiln" Count="2" ExcerptPostId="525" WikiPostId="524" />
+  <row Id="138" TagName="pottery" Count="3" />
+  <row Id="139" TagName="stained-glass" Count="1" />
+  <row Id="140" TagName="stones" Count="2" />
+  <row Id="141" TagName="yoshizawa-randlett" Count="1" ExcerptPostId="515" WikiPostId="514" />
+  <row Id="142" TagName="sewing-machine" Count="1" />
+  <row Id="144" TagName="beads" Count="1" />
+  <row Id="145" TagName="material-identification" Count="3" />
+  <row Id="146" TagName="clay" Count="2" />
+  <row Id="148" TagName="medium-selection" Count="7" ExcerptPostId="468" WikiPostId="467" />
+  <row Id="150" TagName="brush-maintenance" Count="1" />
+  <row Id="151" TagName="pom-poms" Count="1" />
+  <row Id="152" TagName="pencil-maintenance" Count="2" />
+  <row Id="153" TagName="pencil-care" Count="2" />
+  <row Id="154" TagName="canvas-stretching" Count="1" />
+  <row Id="156" TagName="erasers" Count="2" />
+  <row Id="157" TagName="pasta" Count="1" ExcerptPostId="1695" WikiPostId="1694" />
+  <row Id="158" TagName="kids-crafts" Count="3" />
+  <row Id="160" TagName="costume-design" Count="2" ExcerptPostId="1697" WikiPostId="1696" />
+  <row Id="161" TagName="paper-cutter" Count="1" ExcerptPostId="504" WikiPostId="503" />
+  <row Id="162" TagName="weaving" Count="1" />
+  <row Id="163" TagName="sealant" Count="1" />
+  <row Id="164" TagName="decoupage-glue" Count="2" ExcerptPostId="523" WikiPostId="522" />
+  <row Id="165" TagName="kirigami" Count="1" />
+  <row Id="166" TagName="papier-mache" Count="1" />
+  <row Id="167" TagName="shells" Count="1" />
+  <row Id="168" TagName="technique-identification" Count="3" />
+  <row Id="170" TagName="surface-preparation" Count="3" />
+  <row Id="171" TagName="hem" Count="1" />
+  <row Id="172" TagName="cross-stitch" Count="2" />
+  <row Id="173" TagName="bamboo" Count="1" />
+  <row Id="174" TagName="flowers" Count="2" />
+  <row Id="175" TagName="turpentine" Count="1" />
+  <row Id="176" TagName="hot-wire-cutter" Count="2" />
+  <row Id="178" TagName="foam" Count="1" />
+  <row Id="179" TagName="linear-perspective" Count="1" ExcerptPostId="637" WikiPostId="636" />
+  <row Id="180" TagName="prints" Count="1" />
+  <row Id="181" TagName="restoration" Count="1" ExcerptPostId="693" WikiPostId="692" />
+  <row Id="182" TagName="acrylic-glass" Count="1" ExcerptPostId="699" WikiPostId="698" />
+  <row Id="183" TagName="portrait-drawing" Count="1" />
+  <row Id="1181" TagName="plaster" Count="1" />
+  <row Id="1182" TagName="metal" Count="1" />
+  <row Id="1183" TagName="marquetry" Count="2" />
+  <row Id="1184" TagName="armature-wire" Count="1" />
+  <row Id="1185" TagName="pvc" Count="1" />
+  <row Id="1186" TagName="tortillon" Count="1" />
+  <row Id="1187" TagName="blending-stump" Count="1" />
+  <row Id="1188" TagName="cardboard" Count="1" />
+  <row Id="1189" TagName="macrame" Count="1" />
+  <row Id="1190" TagName="tangle" Count="0" />
+</tags>
