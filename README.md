@@ -2,7 +2,7 @@
 #                   Project :- Answering the QUESTION : 
 # How does knowledge come by ? and Which Condition is Ideal for Knowledge Building ?
 
-#                 A guide to Run Compoents of the Progect 
+#                 A guide to Run Components of the Progect 
 
 prog.py :- 
 
