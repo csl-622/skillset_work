@@ -1,0 +1,12 @@
+
+Contains the DIRECTORY NAME:
+#===================-- SET DIRECTORY NAME --=================================
+folder_to_data_folder_path='small_sample'
+#============================================================================
+
+TO RUN:
+python prog.py
+
+OUTPUT:
+Each Website has 4 results stored in Results Folder
+
