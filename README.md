@@ -1,4 +1,6 @@
 # Skillset_work
+# Project :- Answering the QUESTION how does knowledge come by ? and Which Condition is Ideal for Knowledge Building ?
+# A guide to Run Compoents of the Progect 
 
 prog.py :- 
 
