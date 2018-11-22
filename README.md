@@ -1,6 +1,6 @@
 #                              Skillset_work
-#                   Project :- Answering the QUESTION : 
-# How does knowledge come by ? and Which Condition is Ideal for Knowledge Building ?
+#                                 Project :-
+# How does knowledge come by ? and What Condition is Ideal for Knowledge Building ?
 
 #                 A guide to Run Components of the Progect 
 
