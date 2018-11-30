@@ -8,7 +8,7 @@ import pandas as pd # For Data Analytics
 from sklearn.cluster import KMeans
 import numpy
 #===================-- SET DIRECTORY NAME --=================================
-folder_to_data_folder_path='small_sample'
+folder_to_data_folder_path='Data'
 #============================================================================
 
 

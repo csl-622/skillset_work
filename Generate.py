@@ -5,7 +5,7 @@ import re
 
 
 #===================-- SET DIRECTORY NAME --=================================
-folder_to_data_folder_path='small_sample'
+folder_to_data_folder_path='Data'
 #============================================================================
 
 

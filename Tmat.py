@@ -10,7 +10,7 @@ import numpy
 from numpy.linalg import inv
 
 #===================-- SET DIRECTORY NAME --=================================
-folder_to_data_folder_path='small_sample'
+folder_to_data_folder_path='Data'
 #============================================================================
 
 

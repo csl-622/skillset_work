@@ -9,9 +9,11 @@ Begin:-
 
 Initially Place Website Data in Data folder
 
+RUN ALL as python filename.py
+
 Components:-
 
-prog.py :- 
+Generate.py :- 
 
 1.) For Each website, it calculates It's Contributor's percentage according to SPECIALITY ( Total SUM UP to 100% )
 
