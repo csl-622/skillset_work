@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tags>
+  <row Id="1" TagName="album" Count="21" />
+  <row Id="2" TagName="terminology" Count="30" ExcerptPostId="142" WikiPostId="141" />
+  <row Id="3" TagName="jaco-pastorius" Count="1" ExcerptPostId="537" WikiPostId="536" />
+  <row Id="4" TagName="release" Count="8" />
+  <row Id="5" TagName="recording" Count="30" ExcerptPostId="144" WikiPostId="143" />
+  <row Id="8" TagName="vinyl" Count="31" ExcerptPostId="372" WikiPostId="371" />
+  <row Id="9" TagName="trap" Count="2" />
+  <row Id="10" TagName="history" Count="69" ExcerptPostId="204" WikiPostId="203" />
+  <row Id="11" TagName="psychology" Count="8" />
+  <row Id="13" TagName="playlists" Count="2" />
+  <row Id="14" TagName="equipment" Count="7" />
+  <row Id="15" TagName="headphones" Count="5" />
+  <row Id="16" TagName="bitrate" Count="3" />
+  <row Id="17" TagName="soundtrack" Count="28" />
+  <row Id="22" TagName="rock" Count="53" ExcerptPostId="35" WikiPostId="34" />
+  <row Id="23" TagName="genre" Count="69" ExcerptPostId="140" WikiPostId="139" />
+  <row Id="26" TagName="chart-success" Count="11" />
+  <row Id="28" TagName="classification" Count="7" />
+  <row Id="29" TagName="hidden-track" Count="2" ExcerptPostId="48" WikiPostId="47" />
+  <row Id="30" TagName="cd" Count="13" ExcerptPostId="950" WikiPostId="949" />
+  <row Id="31" TagName="speakers" Count="2" />
+  <row Id="32" TagName="jazz" Count="43" />
+  <row Id="34" TagName="format" Count="4" />
+  <row Id="37" TagName="electronic-music" Count="33" />
+  <row Id="38" TagName="dj" Count="4" />
+  <row Id="40" TagName="billboard" Count="4" ExcerptPostId="520" WikiPostId="519" />
+  <row Id="41" TagName="charts" Count="5" />
+  <row Id="43" TagName="quality" Count="2" />
+  <row Id="44" TagName="award" Count="3" />
+  <row Id="45" TagName="bands" Count="19" ExcerptPostId="133" WikiPostId="132" />
+  <row Id="46" TagName="record" Count="5" />
+  <row Id="48" TagName="prince" Count="3" ExcerptPostId="549" WikiPostId="548" />
+  <row Id="51" TagName="mike-oldfield" Count="1" ExcerptPostId="293" WikiPostId="292" />
+  <row Id="53" TagName="remix" Count="6" ExcerptPostId="320" WikiPostId="319" />
+  <row Id="55" TagName="lyrics" Count="117" ExcerptPostId="200" WikiPostId="199" />
+  <row Id="57" TagName="the-beatles" Count="12" ExcerptPostId="291" WikiPostId="290" />
+  <row Id="60" TagName="pink-floyd" Count="7" ExcerptPostId="295" WikiPostId="294" />
+  <row Id="61" TagName="meaning" Count="69" ExcerptPostId="3559" WikiPostId="3558" />
+  <row Id="62" TagName="sound" Count="13" />
+  <row Id="63" TagName="indie" Count="5" />
+  <row Id="64" TagName="cover" Count="4" ExcerptPostId="297" WikiPostId="296" />
+  <row Id="65" TagName="concert" Count="12" />
+  <row Id="66" TagName="copyright" Count="7" />
+  <row Id="70" TagName="cassette" Count="2" />
+  <row Id="73" TagName="tool" Count="3" />
+  <row Id="74" TagName="similar-artists" Count="21" ExcerptPostId="2779" WikiPostId="2778" />
+  <row Id="75" TagName="classical-music" Count="43" ExcerptPostId="3137" WikiPostId="3136" />
+  <row Id="76" TagName="music-video" Count="37" ExcerptPostId="366" WikiPostId="365" />
+  <row Id="78" TagName="sound-quality" Count="7" />
+  <row Id="79" TagName="a-perfect-circle" Count="2" ExcerptPostId="299" WikiPostId="298" />
+  <row Id="80" TagName="live-music" Count="17" ExcerptPostId="2873" WikiPostId="2872" />
+  <row Id="81" TagName="record-labels" Count="6" />
+  <row Id="83" TagName="artwork" Count="7" ExcerptPostId="190" WikiPostId="189" />
+  <row Id="84" TagName="led-zeppelin" Count="6" ExcerptPostId="207" WikiPostId="206" />
+  <row Id="85" TagName="buckethead" Count="3" ExcerptPostId="323" WikiPostId="322" />
+  <row Id="87" TagName="appearance" Count="2" />
+  <row Id="88" TagName="guns-n-roses" Count="4" ExcerptPostId="325" WikiPostId="324" />
+  <row Id="90" TagName="fatboy-slim" Count="3" ExcerptPostId="243" WikiPostId="242" />
+  <row Id="91" TagName="sample" Count="9" ExcerptPostId="301" WikiPostId="300" />
+  <row Id="92" TagName="music-business" Count="7" />
+  <row Id="96" TagName="instrumental" Count="20" />
+  <row Id="97" TagName="number-ones" Count="4" />
+  <row Id="99" TagName="band-members" Count="3" ExcerptPostId="247" WikiPostId="246" />
+  <row Id="103" TagName="compilations" Count="5" />
+  <row Id="104" TagName="joss-whedon" Count="1" ExcerptPostId="327" WikiPostId="326" />
+  <row Id="108" TagName="sampling" Count="4" ExcerptPostId="510" WikiPostId="509" />
+  <row Id="109" TagName="japan" Count="3" />
+  <row Id="113" TagName="james-blunt" Count="1" ExcerptPostId="329" WikiPostId="328" />
+  <row Id="114" TagName="pop" Count="26" />
+  <row Id="115" TagName="korean" Count="4" ExcerptPostId="284" WikiPostId="283" />
+  <row Id="116" TagName="asian" Count="4" ExcerptPostId="286" WikiPostId="285" />
+  <row Id="118" TagName="distribution" Count="2" />
+  <row Id="121" TagName="bruce-springsteen" Count="2" ExcerptPostId="331" WikiPostId="330" />
+  <row Id="123" TagName="propellerheads" Count="1" ExcerptPostId="333" WikiPostId="332" />
+  <row Id="124" TagName="yoko-kanno" Count="2" ExcerptPostId="426" WikiPostId="425" />
+  <row Id="125" TagName="language" Count="4" />
+  <row Id="126" TagName="john-hartford" Count="1" ExcerptPostId="539" WikiPostId="538" />
+  <row Id="129" TagName="spinal-tap" Count="2" ExcerptPostId="368" WikiPostId="367" />
+  <row Id="133" TagName="black-sabbath" Count="1" ExcerptPostId="362" WikiPostId="361" />
+  <row Id="134" TagName="influence" Count="5" />
+  <row Id="136" TagName="hip-hop" Count="19" />
+  <row Id="137" TagName="rap" Count="24" />
+  <row Id="140" TagName="skrillex" Count="2" ExcerptPostId="910" WikiPostId="909" />
+  <row Id="141" TagName="norman-cook" Count="2" ExcerptPostId="545" WikiPostId="544" />
+  <row Id="142" TagName="the-bpa" Count="1" ExcerptPostId="541" WikiPostId="540" />
+  <row Id="143" TagName="unknown-composer" Count="4" />
+  <row Id="144" TagName="elvis-presley" Count="1" ExcerptPostId="535" WikiPostId="534" />
+  <row Id="145" TagName="parody" Count="2" />
+  <row Id="149" TagName="marvin-gaye" Count="1" ExcerptPostId="424" WikiPostId="423" />
+  <row Id="150" TagName="robin-thicke" Count="1" ExcerptPostId="422" WikiPostId="421" />
+  <row Id="151" TagName="pharrell-williams" Count="1" ExcerptPostId="420" WikiPostId="419" />
+  <row Id="152" TagName="clifford-joseph-harris-jr" Count="1" ExcerptPostId="418" WikiPostId="417" />
+  <row Id="153" TagName="blues" Count="23" />
+  <row Id="154" TagName="boards-of-canada" Count="1" ExcerptPostId="531" WikiPostId="530" />
+  <row Id="157" TagName="weird-al-yankovic" Count="1" ExcerptPostId="543" WikiPostId="542" />
+  <row Id="159" TagName="drums" Count="6" />
+  <row Id="160" TagName="percussion" Count="5" />
+  <row Id="161" TagName="michael-jackson" Count="4" />
+  <row Id="163" TagName="names" Count="8" />
+  <row Id="164" TagName="poe" Count="1" ExcerptPostId="547" WikiPostId="546" />
+  <row Id="165" TagName="etymology" Count="3" />
+  <row Id="166" TagName="euphemisms" Count="2" />
+  <row Id="167" TagName="van-morrison" Count="1" ExcerptPostId="914" WikiPostId="913" />
+  <row Id="169" TagName="chuck-berry" Count="1" ExcerptPostId="533" WikiPostId="532" />
+  <row Id="171" TagName="adel-tawil" Count="1" ExcerptPostId="486" WikiPostId="485" />
+  <row Id="176" TagName="videogame-soundtrack" Count="12" ExcerptPostId="624" WikiPostId="623" />
+  <row Id="180" TagName="house" Count="4" />
+  <row Id="181" TagName="techno" Count="3" />
+  <row Id="182" TagName="eagles" Count="2" ExcerptPostId="529" WikiPostId="528" />
+  <row Id="187" TagName="backstory" Count="7" ExcerptPostId="585" WikiPostId="584" />
+  <row Id="188" TagName="database" Count="2" />
+  <row Id="191" TagName="punk" Count="7" />
+  <row Id="196" TagName="identify-this-sample" Count="29" />
+  <row Id="200" TagName="naoki-maeda" Count="2" />
+  <row Id="201" TagName="technique" Count="7" />
+  <row Id="206" TagName="song-title" Count="29" ExcerptPostId="3262" WikiPostId="3261" />
+  <row Id="208" TagName="reggae" Count="4" />
+  <row Id="209" TagName="production" Count="5" />
+  <row Id="212" TagName="daft-punk" Count="1" ExcerptPostId="661" WikiPostId="660" />
+  <row Id="218" TagName="johann-sebastian-bach" Count="3" />
+  <row Id="221" TagName="vinyl-pressing" Count="2" />
+  <row Id="225" TagName="metallica" Count="3" />
+  <row Id="227" TagName="turntable" Count="5" />
+  <row Id="229" TagName="style" Count="16" />
+  <row Id="230" TagName="bebop" Count="2" />
+  <row Id="231" TagName="henrik-zeabird" Count="2" ExcerptPostId="776" WikiPostId="775" />
+  <row Id="232" TagName="audio-quality" Count="2" />
+  <row Id="234" TagName="funk" Count="12" />
+  <row Id="236" TagName="metal" Count="22" />
+  <row Id="252" TagName="soundgarden" Count="1" ExcerptPostId="1030" WikiPostId="1029" />
+  <row Id="255" TagName="muse" Count="1" ExcerptPostId="858" WikiPostId="857" />
+  <row Id="259" TagName="discography" Count="3" />
+  <row Id="260" TagName="vaporwave" Count="1" ExcerptPostId="912" WikiPostId="911" />
+  <row Id="263" TagName="unknown-performer" Count="15" />
+  <row Id="264" TagName="swing" Count="2" />
+  <row Id="268" TagName="dead-can-dance" Count="1" ExcerptPostId="917" WikiPostId="916" />
+  <row Id="269" TagName="digital-audio" Count="5" />
+  <row Id="271" TagName="cool-jazz" Count="3" />
+  <row Id="276" TagName="rockers" Count="3" />
+  <row Id="277" TagName="def-leppard" Count="2" />
+  <row Id="278" TagName="soul" Count="5" />
+  <row Id="286" TagName="interview" Count="2" />
+  <row Id="291" TagName="identify-this-song" Count="162" ExcerptPostId="2637" WikiPostId="2636" />
+  <row Id="292" TagName="country" Count="5" />
+  <row Id="293" TagName="dancing" Count="2" />
+  <row Id="295" TagName="songwriter" Count="3" />
+  <row Id="296" TagName="untagged" Count="9" />
+  <row Id="299" TagName="mp3" Count="2" />
+  <row Id="300" TagName="identify-this-video" Count="16" />
+  <row Id="301" TagName="alternative-rock" Count="4" />
+  <row Id="303" TagName="audio-software" Count="3" />
+  <row Id="306" TagName="synthpop" Count="3" />
+  <row Id="307" TagName="mute-records" Count="1" />
+  <row Id="308" TagName="personnel" Count="3" />
+  <row Id="309" TagName="charles-mingus" Count="1" />
+  <row Id="310" TagName="ballet" Count="1" />
+  <row Id="311" TagName="motown" Count="1" />
+  <row Id="312" TagName="temptations" Count="1" />
+  <row Id="313" TagName="parliament" Count="1" />
+  <row Id="314" TagName="p-funk" Count="1" />
+  <row Id="316" TagName="instrument-identification" Count="7" />
+  <row Id="317" TagName="performance" Count="2" />
+  <row Id="318" TagName="identify-this-album" Count="6" />
+  <row Id="319" TagName="opera" Count="1" />
+  <row Id="320" TagName="piano" Count="4" />
+  <row Id="321" TagName="identify-this-band" Count="2" />
+  <row Id="322" TagName="where-are-they-now" Count="4" ExcerptPostId="3232" WikiPostId="3231" />
+  <row Id="323" TagName="royalties" Count="4" />
+  <row Id="324" TagName="cartoon" Count="1" />
+  <row Id="325" TagName="folk-music" Count="1" />
+  <row Id="326" TagName="dubstep" Count="1" />
+  <row Id="327" TagName="producers" Count="1" />
+  <row Id="328" TagName="anthem" Count="1" />
+  <row Id="329" TagName="definition" Count="1" />
+  <row Id="330" TagName="troye-sivan" Count="1" />
+  <row Id="331" TagName="title" Count="1" />
+</tags>

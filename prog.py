@@ -25,6 +25,7 @@ def userid_questions_answers(data_folder_path,filename):
 		if child.attrib == {}: # This is to tackle with the empty child that appears at last
 			continue
 		else:
+			user_id=0
 			if child.attrib.has_key('OwnerUserId'):
 				user_id = int(child.attrib['OwnerUserId'])
 			if child.attrib.has_key('PostTypeId'):

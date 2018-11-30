@@ -21,18 +21,33 @@ def Tmat_cal(path,filename):
 	filename2='Nmat_Kmat/'+filename+'_Kmat.pkl'
 	with open(filename2,'rb') as f:
 		Kmat=pickle.load(f)
-	Tmat=numpy.matrix([[1,2],[2,1]])
+	self_trig=0.1	
+	Tmat=numpy.matrix([[self_trig,2],[2,self_trig]])
 	R=numpy.matrix([[0.01],[0.01]])
 	result=inv(Nmat)*(Kmat-(Nmat*R))
 	X=(result[0,0]-(Tmat[0,0]*Kmat[0,0]))/Kmat[1,0]
 	Y=(result[1,0]-(Tmat[1,1]*Kmat[1,0]))/Kmat[0,0]
-	Tmat=numpy.matrix([[1,-X],[-Y,1]])
+	Tmat=numpy.matrix([[self_trig,X],[Y,self_trig]])
+	
+	times_loop_run=100
+	Tmat1=Tmat
+	while times_loop_run>0:
+		if numpy.linalg.eig(Nmat*Tmat)<1 and X>0 and Y>0:
+			break
+		else:
+			self_trig=self_trig/10
+			X=(result[0,0]-(Tmat[0,0]*Kmat[0,0]))/Kmat[1,0]
+			Y=(result[1,0]-(Tmat[1,1]*Kmat[1,0]))/Kmat[0,0]
+			Tmat=numpy.matrix([[0.00001,X],[Y,0.00001]])	
+		times_loop_run-=1
 	
 	filename2='Tmat/'+filename+'_Tmat.pkl'
 	with open(filename2,'wb') as f:
 		pickle.dump(Tmat,f)
 
-	print Tmat
+	print "\n","------------",filename,"--------------------"
+	print Tmat1,"Before"
+	print Tmat,"After"
 		
 def main():
 	path=os.getcwd()+'/'+folder_to_data_folder_path

@@ -1,3 +1,4 @@
+User_Id:0	 Questions Asked:2	 Answers Posted:1	 	Votes:0
 User_Id:1	 Questions Asked:0	 Answers Posted:0	 	Votes:13
 User_Id:2	 Questions Asked:0	 Answers Posted:0	 	Votes:0
 User_Id:3	 Questions Asked:0	 Answers Posted:0	 	Votes:0
@@ -839,7 +840,7 @@ User_Id:850	 Questions Asked:1	 Answers Posted:0	 	Votes:1
 User_Id:851	 Questions Asked:0	 Answers Posted:0	 	Votes:0
 User_Id:852	 Questions Asked:0	 Answers Posted:0	 	Votes:0
 User_Id:853	 Questions Asked:0	 Answers Posted:0	 	Votes:0
-User_Id:854	 Questions Asked:1	 Answers Posted:24	 	Votes:3
+User_Id:854	 Questions Asked:0	 Answers Posted:23	 	Votes:3
 User_Id:855	 Questions Asked:0	 Answers Posted:0	 	Votes:0
 User_Id:856	 Questions Asked:0	 Answers Posted:0	 	Votes:0
 User_Id:857	 Questions Asked:0	 Answers Posted:0	 	Votes:0
@@ -1151,7 +1152,7 @@ User_Id:1165	 Questions Asked:0	 Answers Posted:0	 	Votes:1
 User_Id:1166	 Questions Asked:0	 Answers Posted:0	 	Votes:0
 User_Id:1167	 Questions Asked:0	 Answers Posted:0	 	Votes:0
 User_Id:1168	 Questions Asked:0	 Answers Posted:0	 	Votes:0
-User_Id:1169	 Questions Asked:3	 Answers Posted:1	 	Votes:20
+User_Id:1169	 Questions Asked:2	 Answers Posted:1	 	Votes:20
 User_Id:1170	 Questions Asked:0	 Answers Posted:0	 	Votes:0
 User_Id:1171	 Questions Asked:0	 Answers Posted:0	 	Votes:0
 User_Id:1172	 Questions Asked:0	 Answers Posted:0	 	Votes:0

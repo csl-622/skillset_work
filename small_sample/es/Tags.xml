@@ -1,0 +1,758 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tags>
+  <row Id="1" TagName=".net" Count="60" ExcerptPostId="680" WikiPostId="679" />
+  <row Id="2" TagName="asp.net-web-api" Count="21" ExcerptPostId="3029" WikiPostId="3028" />
+  <row Id="3" TagName="delphi" Count="11" ExcerptPostId="20" WikiPostId="19" />
+  <row Id="4" TagName="c++" Count="113" ExcerptPostId="15" WikiPostId="14" />
+  <row Id="5" TagName="string" Count="43" ExcerptPostId="585" WikiPostId="584" />
+  <row Id="6" TagName="casting" Count="2" ExcerptPostId="6304" WikiPostId="6303" />
+  <row Id="7" TagName="google-maps" Count="29" ExcerptPostId="891" WikiPostId="890" />
+  <row Id="8" TagName="angularjs" Count="138" ExcerptPostId="22" WikiPostId="21" />
+  <row Id="9" TagName="jasmine" Count="2" ExcerptPostId="1701" WikiPostId="1700" />
+  <row Id="10" TagName="karma-jasmine" Count="2" ExcerptPostId="6753" WikiPostId="6752" />
+  <row Id="11" TagName="typescript" Count="5" ExcerptPostId="737" WikiPostId="736" />
+  <row Id="12" TagName="perl" Count="4" ExcerptPostId="306" WikiPostId="305" />
+  <row Id="13" TagName="ios" Count="98" ExcerptPostId="616" WikiPostId="615" />
+  <row Id="14" TagName="xcode" Count="53" ExcerptPostId="690" WikiPostId="689" />
+  <row Id="15" TagName="elixir" Count="1" ExcerptPostId="4210" WikiPostId="4209" />
+  <row Id="16" TagName="javascript" Count="548" ExcerptPostId="86" WikiPostId="85" />
+  <row Id="18" TagName="rails" Count="24" ExcerptPostId="4000" WikiPostId="3999" />
+  <row Id="20" TagName="ruby" Count="20" ExcerptPostId="283" WikiPostId="282" />
+  <row Id="21" TagName="vistas" Count="2" ExcerptPostId="662" WikiPostId="661" />
+  <row Id="23" TagName="jquery" Count="252" ExcerptPostId="500" WikiPostId="499" />
+  <row Id="24" TagName="android" Count="442" ExcerptPostId="116" WikiPostId="115" />
+  <row Id="25" TagName="socket" Count="12" ExcerptPostId="5008" WikiPostId="5007" />
+  <row Id="26" TagName="tcpip" Count="5" ExcerptPostId="641" WikiPostId="640" />
+  <row Id="27" TagName="tcp" Count="4" ExcerptPostId="643" WikiPostId="642" />
+  <row Id="28" TagName="mysql" Count="185" ExcerptPostId="99" WikiPostId="98" />
+  <row Id="29" TagName="datetime" Count="10" ExcerptPostId="1672" WikiPostId="1671" />
+  <row Id="30" TagName="timestamp" Count="4" ExcerptPostId="692" WikiPostId="691" />
+  <row Id="31" TagName="sql" Count="131" ExcerptPostId="144" WikiPostId="143" />
+  <row Id="32" TagName="inner-join" Count="1" ExcerptPostId="998" WikiPostId="997" />
+  <row Id="34" TagName="join" Count="4" ExcerptPostId="9788" WikiPostId="9787" />
+  <row Id="35" TagName="oracle" Count="39" ExcerptPostId="578" WikiPostId="577" />
+  <row Id="36" TagName="oracle-10g" Count="6" ExcerptPostId="590" WikiPostId="589" />
+  <row Id="37" TagName="asp.net" Count="109" ExcerptPostId="494" WikiPostId="493" />
+  <row Id="38" TagName="bower" Count="2" ExcerptPostId="186" WikiPostId="185" />
+  <row Id="39" TagName="c++11" Count="7" ExcerptPostId="869" WikiPostId="868" />
+  <row Id="40" TagName="ruby-on-rails" Count="5" ExcerptPostId="667" WikiPostId="666" />
+  <row Id="41" TagName="google-apps-script" Count="11" ExcerptPostId="893" WikiPostId="892" />
+  <row Id="42" TagName="momentjs" Count="3" ExcerptPostId="730" WikiPostId="729" />
+  <row Id="44" TagName="http" Count="14" ExcerptPostId="1525" WikiPostId="1524" />
+  <row Id="45" TagName="post" Count="12" ExcerptPostId="5268" WikiPostId="5267" />
+  <row Id="47" TagName="kendoui" Count="3" ExcerptPostId="1549" WikiPostId="1548" />
+  <row Id="49" TagName="bash" Count="27" ExcerptPostId="682" WikiPostId="681" />
+  <row Id="50" TagName="c#" Count="403" ExcerptPostId="125" WikiPostId="124" />
+  <row Id="51" TagName="java" Count="633" ExcerptPostId="173" WikiPostId="172" />
+  <row Id="52" TagName="spring" Count="25" ExcerptPostId="684" WikiPostId="683" />
+  <row Id="53" TagName="hibernate" Count="10" ExcerptPostId="672" WikiPostId="671" />
+  <row Id="54" TagName="python" Count="267" ExcerptPostId="242" WikiPostId="241" />
+  <row Id="55" TagName="variables" Count="9" ExcerptPostId="7109" WikiPostId="7108" />
+  <row Id="58" TagName="git" Count="46" ExcerptPostId="183" WikiPostId="182" />
+  <row Id="59" TagName="commit" Count="2" ExcerptPostId="10051" WikiPostId="10050" />
+  <row Id="62" TagName="laravel" Count="39" ExcerptPostId="166" WikiPostId="165" />
+  <row Id="63" TagName="php" Count="446" ExcerptPostId="409" WikiPostId="408" />
+  <row Id="64" TagName="ajax" Count="101" ExcerptPostId="686" WikiPostId="685" />
+  <row Id="65" TagName="html" Count="243" ExcerptPostId="164" WikiPostId="163" />
+  <row Id="66" TagName="css" Count="117" ExcerptPostId="114" WikiPostId="113" />
+  <row Id="67" TagName="fish" Count="2" />
+  <row Id="68" TagName="android-intent" Count="12" ExcerptPostId="10023" WikiPostId="10022" />
+  <row Id="69" TagName="android-asynctask" Count="23" />
+  <row Id="70" TagName="linux" Count="62" ExcerptPostId="327" WikiPostId="326" />
+  <row Id="71" TagName="shell" Count="13" ExcerptPostId="700" WikiPostId="699" />
+  <row Id="72" TagName="sed" Count="1" ExcerptPostId="698" WikiPostId="697" />
+  <row Id="73" TagName="awk" Count="1" ExcerptPostId="1684" WikiPostId="1683" />
+  <row Id="74" TagName="android-layout" Count="38" ExcerptPostId="650" WikiPostId="649" />
+  <row Id="75" TagName="unidades-de-medición" Count="2" />
+  <row Id="76" TagName="htmlunit" Count="1" />
+  <row Id="77" TagName="pharo" Count="1" ExcerptPostId="1153" WikiPostId="1152" />
+  <row Id="78" TagName="smalltalk" Count="1" ExcerptPostId="696" WikiPostId="695" />
+  <row Id="79" TagName="legado" Count="1" />
+  <row Id="80" TagName="regex" Count="18" ExcerptPostId="240" WikiPostId="239" />
+  <row Id="81" TagName="email" Count="15" ExcerptPostId="706" WikiPostId="705" />
+  <row Id="82" TagName="validación" Count="15" ExcerptPostId="1674" WikiPostId="1673" />
+  <row Id="83" TagName="rendimiento" Count="2" ExcerptPostId="10026" WikiPostId="10025" />
+  <row Id="84" TagName="optimización" Count="9" ExcerptPostId="834" WikiPostId="833" />
+  <row Id="88" TagName="wcf" Count="6" ExcerptPostId="1680" WikiPostId="1679" />
+  <row Id="89" TagName="soap" Count="10" ExcerptPostId="688" WikiPostId="687" />
+  <row Id="90" TagName="soapui" Count="2" ExcerptPostId="1626" WikiPostId="1625" />
+  <row Id="96" TagName="try-catch" Count="1" />
+  <row Id="97" TagName="str-replace" Count="1" ExcerptPostId="10043" WikiPostId="10042" />
+  <row Id="98" TagName="strtr" Count="1" />
+  <row Id="99" TagName="git-commit" Count="7" ExcerptPostId="1002" WikiPostId="1001" />
+  <row Id="100" TagName="dukescript" Count="2" ExcerptPostId="652" WikiPostId="651" />
+  <row Id="101" TagName="admob" Count="5" ExcerptPostId="867" WikiPostId="866" />
+  <row Id="103" TagName="funciones" Count="19" ExcerptPostId="5006" WikiPostId="5005" />
+  <row Id="105" TagName="jvm" Count="2" ExcerptPostId="631" WikiPostId="630" />
+  <row Id="106" TagName="jdk" Count="2" ExcerptPostId="1703" WikiPostId="1702" />
+  <row Id="107" TagName="eclipse" Count="21" ExcerptPostId="919" WikiPostId="918" />
+  <row Id="108" TagName="depuración" Count="2" ExcerptPostId="2363" WikiPostId="2362" />
+  <row Id="109" TagName="jboss" Count="4" ExcerptPostId="1610" WikiPostId="1609" />
+  <row Id="110" TagName="vagrant" Count="2" ExcerptPostId="1592" WikiPostId="1591" />
+  <row Id="111" TagName="puppet" Count="1" ExcerptPostId="716" WikiPostId="715" />
+  <row Id="112" TagName="puppetlabs-mysql" Count="1" />
+  <row Id="114" TagName="doctrine" Count="5" ExcerptPostId="5395" WikiPostId="5394" />
+  <row Id="115" TagName="doctrine2" Count="3" ExcerptPostId="5493" WikiPostId="5492" />
+  <row Id="116" TagName="matemáticas" Count="9" ExcerptPostId="3899" WikiPostId="3898" />
+  <row Id="117" TagName="coma-flotante" Count="2" ExcerptPostId="5274" WikiPostId="5273" />
+  <row Id="119" TagName="laravel-5" Count="31" ExcerptPostId="216" WikiPostId="215" />
+  <row Id="123" TagName="zsh" Count="2" ExcerptPostId="531" WikiPostId="530" />
+  <row Id="124" TagName="django" Count="155" ExcerptPostId="658" WikiPostId="657" />
+  <row Id="127" TagName="diccionario" Count="1" />
+  <row Id="128" TagName="constructor" Count="3" ExcerptPostId="2395" WikiPostId="2394" />
+  <row Id="129" TagName="clase-abstracta" Count="2" ExcerptPostId="10037" WikiPostId="10036" />
+  <row Id="130" TagName="mercurial" Count="3" ExcerptPostId="887" WikiPostId="886" />
+  <row Id="131" TagName="control-de-versiones" Count="3" ExcerptPostId="1608" WikiPostId="1607" />
+  <row Id="132" TagName="pip" Count="4" ExcerptPostId="7107" WikiPostId="7106" />
+  <row Id="133" TagName="ubuntu" Count="25" ExcerptPostId="529" WikiPostId="528" />
+  <row Id="134" TagName="python-2.7" Count="56" ExcerptPostId="1519" WikiPostId="1518" />
+  <row Id="135" TagName="entity-framework" Count="33" ExcerptPostId="1392" WikiPostId="1391" />
+  <row Id="136" TagName="model-view-controller" Count="3" ExcerptPostId="1697" WikiPostId="1696" />
+  <row Id="138" TagName="formularios" Count="23" ExcerptPostId="1836" WikiPostId="1835" />
+  <row Id="139" TagName="html5" Count="120" ExcerptPostId="527" WikiPostId="526" />
+  <row Id="140" TagName="comparaciones" Count="4" ExcerptPostId="6306" WikiPostId="6305" />
+  <row Id="141" TagName="knockoutjs" Count="4" ExcerptPostId="1541" WikiPostId="1540" />
+  <row Id="146" TagName="css3" Count="39" ExcerptPostId="965" WikiPostId="964" />
+  <row Id="147" TagName="3d" Count="2" ExcerptPostId="1620" WikiPostId="1619" />
+  <row Id="148" TagName="importación" Count="2" />
+  <row Id="149" TagName="numpy" Count="8" ExcerptPostId="4811" WikiPostId="4810" />
+  <row Id="150" TagName="array" Count="49" ExcerptPostId="843" WikiPostId="842" />
+  <row Id="151" TagName="google-play-newsstand" Count="1" />
+  <row Id="152" TagName="google-newsstand-producer" Count="1" ExcerptPostId="533" WikiPostId="532" />
+  <row Id="153" TagName="objective-c" Count="18" ExcerptPostId="523" WikiPostId="522" />
+  <row Id="154" TagName="swift" Count="75" ExcerptPostId="694" WikiPostId="693" />
+  <row Id="158" TagName="mónada" Count="1" />
+  <row Id="160" TagName="visual-studio" Count="56" ExcerptPostId="929" WikiPostId="928" />
+  <row Id="161" TagName="programación-funcional" Count="3" ExcerptPostId="525" WikiPostId="524" />
+  <row Id="162" TagName="android-softkeyboard" Count="1" />
+  <row Id="163" TagName="android-input-method" Count="1" />
+  <row Id="164" TagName="nodejs" Count="59" ExcerptPostId="674" WikiPostId="673" />
+  <row Id="165" TagName="ec2" Count="3" ExcerptPostId="3477" WikiPostId="3476" />
+  <row Id="166" TagName="npm" Count="6" ExcerptPostId="1655" WikiPostId="1654" />
+  <row Id="167" TagName="aurelia.io" Count="1" ExcerptPostId="1596" WikiPostId="1595" />
+  <row Id="168" TagName="select2" Count="7" ExcerptPostId="4880" WikiPostId="4879" />
+  <row Id="169" TagName="rspec" Count="2" ExcerptPostId="656" WikiPostId="655" />
+  <row Id="170" TagName="python-3.x" Count="60" ExcerptPostId="1521" WikiPostId="1520" />
+  <row Id="171" TagName="xml" Count="37" ExcerptPostId="496" WikiPostId="495" />
+  <row Id="172" TagName="codificación" Count="5" ExcerptPostId="9657" WikiPostId="9656" />
+  <row Id="173" TagName="utf-8" Count="2" ExcerptPostId="865" WikiPostId="864" />
+  <row Id="174" TagName="cordova" Count="13" ExcerptPostId="1033" WikiPostId="1032" />
+  <row Id="175" TagName="algoritmos" Count="10" ExcerptPostId="704" WikiPostId="703" />
+  <row Id="176" TagName="condiciones" Count="5" ExcerptPostId="6269" WikiPostId="6268" />
+  <row Id="177" TagName="loops" Count="6" ExcerptPostId="728" WikiPostId="727" />
+  <row Id="180" TagName="licencias" Count="3" ExcerptPostId="7113" WikiPostId="7112" />
+  <row Id="182" TagName="código-abierto" Count="1" ExcerptPostId="726" WikiPostId="725" />
+  <row Id="183" TagName="namedquery" Count="1" />
+  <row Id="184" TagName="json" Count="82" ExcerptPostId="749" WikiPostId="748" />
+  <row Id="185" TagName="gson" Count="2" ExcerptPostId="3222" WikiPostId="3221" />
+  <row Id="186" TagName="sql-server" Count="87" ExcerptPostId="613" WikiPostId="612" />
+  <row Id="187" TagName="youtube" Count="2" ExcerptPostId="722" WikiPostId="721" />
+  <row Id="188" TagName="verilog" Count="2" ExcerptPostId="597" WikiPostId="596" />
+  <row Id="189" TagName="hdl" Count="1" />
+  <row Id="190" TagName="netbeans" Count="23" ExcerptPostId="670" WikiPostId="669" />
+  <row Id="191" TagName="plugin" Count="7" ExcerptPostId="714" WikiPostId="713" />
+  <row Id="192" TagName="c" Count="81" ExcerptPostId="583" WikiPostId="582" />
+  <row Id="194" TagName="manejo-de-memoria" Count="5" ExcerptPostId="1717" WikiPostId="1716" />
+  <row Id="195" TagName="pdf" Count="23" ExcerptPostId="389" WikiPostId="388" />
+  <row Id="196" TagName="reportlab" Count="3" ExcerptPostId="5685" WikiPostId="5684" />
+  <row Id="197" TagName="azure" Count="12" ExcerptPostId="848" WikiPostId="847" />
+  <row Id="198" TagName="azure-traffic-manager" Count="1" />
+  <row Id="199" TagName="maven" Count="13" ExcerptPostId="521" WikiPostId="520" />
+  <row Id="200" TagName="android-auto" Count="1" ExcerptPostId="647" WikiPostId="646" />
+  <row Id="201" TagName="spring-roo" Count="9" ExcerptPostId="2769" WikiPostId="2768" />
+  <row Id="202" TagName="gvnix" Count="13" ExcerptPostId="4882" WikiPostId="4881" />
+  <row Id="204" TagName="pattern" Count="1" />
+  <row Id="205" TagName="punteros" Count="4" ExcerptPostId="517" WikiPostId="516" />
+  <row Id="206" TagName="excepciones" Count="5" ExcerptPostId="1715" WikiPostId="1714" />
+  <row Id="208" TagName="office365" Count="3" ExcerptPostId="6094" WikiPostId="6093" />
+  <row Id="209" TagName="mongodb" Count="16" ExcerptPostId="712" WikiPostId="711" />
+  <row Id="210" TagName="genexus" Count="19" ExcerptPostId="606" WikiPostId="605" />
+  <row Id="211" TagName="smart" Count="1" />
+  <row Id="212" TagName="devices" Count="1" ExcerptPostId="925" WikiPostId="924" />
+  <row Id="213" TagName="gam" Count="1" />
+  <row Id="217" TagName="sequelize.js" Count="1" ExcerptPostId="2639" WikiPostId="2638" />
+  <row Id="218" TagName="struts" Count="2" ExcerptPostId="724" WikiPostId="723" />
+  <row Id="219" TagName="hql" Count="2" ExcerptPostId="3278" WikiPostId="3277" />
+  <row Id="220" TagName="jpa" Count="17" ExcerptPostId="1574" WikiPostId="1573" />
+  <row Id="221" TagName="seam" Count="2" />
+  <row Id="223" TagName="dom" Count="5" ExcerptPostId="702" WikiPostId="701" />
+  <row Id="226" TagName="excel" Count="16" ExcerptPostId="1394" WikiPostId="1393" />
+  <row Id="227" TagName="vba" Count="6" ExcerptPostId="498" WikiPostId="497" />
+  <row Id="228" TagName="vlookup" Count="1" />
+  <row Id="231" TagName="directorioactivo" Count="4" ExcerptPostId="9784" WikiPostId="9783" />
+  <row Id="232" TagName="smartcard" Count="3" />
+  <row Id="233" TagName="java-ee" Count="14" ExcerptPostId="1678" WikiPostId="1677" />
+  <row Id="234" TagName="servlets" Count="8" ExcerptPostId="720" WikiPostId="719" />
+  <row Id="235" TagName="yii2" Count="6" ExcerptPostId="1385" WikiPostId="1384" />
+  <row Id="236" TagName="lenguaje-agnóstico" Count="9" ExcerptPostId="1523" WikiPostId="1522" />
+  <row Id="238" TagName="google-hoja-de-calculo" Count="13" ExcerptPostId="4806" WikiPostId="4805" />
+  <row Id="240" TagName="archivo" Count="11" ExcerptPostId="741" WikiPostId="740" />
+  <row Id="241" TagName="imágenes" Count="1" ExcerptPostId="1617" WikiPostId="1616" />
+  <row Id="243" TagName="object" Count="4" ExcerptPostId="10030" WikiPostId="10029" />
+  <row Id="247" TagName="sandbox" Count="1" ExcerptPostId="921" WikiPostId="920" />
+  <row Id="248" TagName="eval" Count="1" />
+  <row Id="249" TagName="seguridad" Count="9" ExcerptPostId="4875" WikiPostId="4874" />
+  <row Id="255" TagName="djangorestframework" Count="18" ExcerptPostId="4871" WikiPostId="4870" />
+  <row Id="256" TagName="api" Count="22" ExcerptPostId="676" WikiPostId="675" />
+  <row Id="257" TagName="permisos" Count="5" ExcerptPostId="9798" WikiPostId="9797" />
+  <row Id="259" TagName="signalr" Count="2" ExcerptPostId="889" WikiPostId="888" />
+  <row Id="260" TagName="real-time" Count="1" />
+  <row Id="261" TagName="mpi" Count="1" />
+  <row Id="262" TagName="omp" Count="1" />
+  <row Id="264" TagName="hilos" Count="7" ExcerptPostId="5322" WikiPostId="5321" />
+  <row Id="265" TagName="entitycontext" Count="1" />
+  <row Id="266" TagName="matrices-asociativas" Count="2" />
+  <row Id="267" TagName="ordenamiento" Count="8" ExcerptPostId="1604" WikiPostId="1603" />
+  <row Id="268" TagName="booleano" Count="2" ExcerptPostId="708" WikiPostId="707" />
+  <row Id="269" TagName="conda" Count="4" ExcerptPostId="1111" WikiPostId="1110" />
+  <row Id="270" TagName="matplotlib" Count="5" ExcerptPostId="710" WikiPostId="709" />
+  <row Id="271" TagName="pyqt5" Count="2" />
+  <row Id="272" TagName="embebido" Count="1" />
+  <row Id="273" TagName="pouchdb" Count="1" ExcerptPostId="1699" WikiPostId="1698" />
+  <row Id="275" TagName="clausuras" Count="1" />
+  <row Id="276" TagName="github" Count="9" ExcerptPostId="831" WikiPostId="830" />
+  <row Id="277" TagName="git-push" Count="5" ExcerptPostId="1851" WikiPostId="1850" />
+  <row Id="278" TagName="git-fork" Count="2" ExcerptPostId="1853" WikiPostId="1852" />
+  <row Id="280" TagName="sharepoint" Count="3" ExcerptPostId="2530" WikiPostId="2529" />
+  <row Id="281" TagName="sharepoint-online" Count="1" ExcerptPostId="7926" WikiPostId="7925" />
+  <row Id="283" TagName="go" Count="11" ExcerptPostId="645" WikiPostId="644" />
+  <row Id="285" TagName="servicio" Count="6" ExcerptPostId="639" WikiPostId="638" />
+  <row Id="286" TagName="ssis" Count="5" />
+  <row Id="287" TagName="conversión-de-tipos" Count="5" ExcerptPostId="1554" WikiPostId="1553" />
+  <row Id="288" TagName="i18n" Count="5" ExcerptPostId="1848" WikiPostId="1847" />
+  <row Id="289" TagName="advanced" Count="1" />
+  <row Id="290" TagName="ide" Count="5" ExcerptPostId="863" WikiPostId="862" />
+  <row Id="292" TagName="google-forms" Count="2" ExcerptPostId="10035" WikiPostId="10034" />
+  <row Id="293" TagName="uiwebview" Count="3" ExcerptPostId="5318" WikiPostId="5317" />
+  <row Id="294" TagName="ios8" Count="5" ExcerptPostId="1682" WikiPostId="1681" />
+  <row Id="295" TagName="sublimetext" Count="7" ExcerptPostId="798" WikiPostId="797" />
+  <row Id="296" TagName="sublimetext3" Count="7" ExcerptPostId="1694" WikiPostId="1693" />
+  <row Id="297" TagName="phpmyadmin" Count="12" ExcerptPostId="1855" WikiPostId="1854" />
+  <row Id="300" TagName="clase" Count="6" ExcerptPostId="829" WikiPostId="828" />
+  <row Id="301" TagName="método" Count="5" ExcerptPostId="827" WikiPostId="826" />
+  <row Id="302" TagName="rsync" Count="1" ExcerptPostId="9873" WikiPostId="9872" />
+  <row Id="303" TagName="depurar" Count="1" ExcerptPostId="7133" WikiPostId="7132" />
+  <row Id="305" TagName="asp.net-core" Count="5" ExcerptPostId="1713" WikiPostId="1712" />
+  <row Id="306" TagName="yii" Count="3" ExcerptPostId="1042" WikiPostId="1041" />
+  <row Id="307" TagName="yiibooster" Count="1" ExcerptPostId="1387" WikiPostId="1386" />
+  <row Id="308" TagName="cache" Count="3" ExcerptPostId="802" WikiPostId="801" />
+  <row Id="312" TagName="wordpress" Count="33" ExcerptPostId="825" WikiPostId="824" />
+  <row Id="313" TagName="android-sqlite" Count="14" ExcerptPostId="5262" WikiPostId="5261" />
+  <row Id="314" TagName="haskell" Count="8" ExcerptPostId="885" WikiPostId="884" />
+  <row Id="316" TagName="estructuras-de-datos" Count="9" ExcerptPostId="1622" WikiPostId="1621" />
+  <row Id="320" TagName="pillow" Count="1" ExcerptPostId="7099" WikiPostId="7098" />
+  <row Id="322" TagName="tipos" Count="4" ExcerptPostId="1566" WikiPostId="1565" />
+  <row Id="323" TagName="navigationview" Count="2" />
+  <row Id="324" TagName="unix" Count="11" ExcerptPostId="857" WikiPostId="856" />
+  <row Id="325" TagName="grep" Count="2" ExcerptPostId="1517" WikiPostId="1516" />
+  <row Id="326" TagName="ascii" Count="1" ExcerptPostId="861" WikiPostId="860" />
+  <row Id="327" TagName="función-variádica" Count="1" />
+  <row Id="328" TagName="wpf" Count="19" ExcerptPostId="1390" WikiPostId="1389" />
+  <row Id="329" TagName="xaml" Count="25" ExcerptPostId="1538" WikiPostId="1537" />
+  <row Id="330" TagName="asincronismo" Count="4" ExcerptPostId="7119" WikiPostId="7118" />
+  <row Id="331" TagName="indexeddb" Count="7" ExcerptPostId="878" WikiPostId="877" />
+  <row Id="332" TagName="vb.net" Count="71" ExcerptPostId="883" WikiPostId="882" />
+  <row Id="333" TagName="nosql" Count="4" ExcerptPostId="1513" WikiPostId="1512" />
+  <row Id="334" TagName="reactjs" Count="6" ExcerptPostId="923" WikiPostId="922" />
+  <row Id="336" TagName="reflexión" Count="2" />
+  <row Id="337" TagName="odata4" Count="1" />
+  <row Id="338" TagName="automapper" Count="2" />
+  <row Id="339" TagName="xpath" Count="3" ExcerptPostId="1711" WikiPostId="1710" />
+  <row Id="340" TagName="orientación-a-objetos" Count="7" ExcerptPostId="1606" WikiPostId="1605" />
+  <row Id="341" TagName="thymeleaf" Count="3" ExcerptPostId="1689" WikiPostId="1688" />
+  <row Id="342" TagName="vpn" Count="2" ExcerptPostId="1038" WikiPostId="1037" />
+  <row Id="343" TagName="django-models" Count="27" ExcerptPostId="1667" WikiPostId="1666" />
+  <row Id="344" TagName="users-roles" Count="2" />
+  <row Id="345" TagName="nginx" Count="7" ExcerptPostId="1865" WikiPostId="1864" />
+  <row Id="346" TagName="logrotate" Count="1" ExcerptPostId="7097" WikiPostId="7096" />
+  <row Id="347" TagName="configuración" Count="5" ExcerptPostId="9655" WikiPostId="9654" />
+  <row Id="348" TagName="perl6" Count="3" ExcerptPostId="2225" WikiPostId="2224" />
+  <row Id="352" TagName="asp.net-mvc-5" Count="57" ExcerptPostId="1572" WikiPostId="1571" />
+  <row Id="353" TagName="razor" Count="15" ExcerptPostId="2115" WikiPostId="2114" />
+  <row Id="354" TagName="osx" Count="4" ExcerptPostId="977" WikiPostId="976" />
+  <row Id="355" TagName="rss" Count="2" ExcerptPostId="975" WikiPostId="974" />
+  <row Id="356" TagName="uitextview" Count="1" />
+  <row Id="358" TagName="windows-forms" Count="41" ExcerptPostId="1761" WikiPostId="1760" />
+  <row Id="359" TagName="latex" Count="4" ExcerptPostId="987" WikiPostId="986" />
+  <row Id="360" TagName="r" Count="21" ExcerptPostId="990" WikiPostId="989" />
+  <row Id="361" TagName="ggplot2" Count="4" ExcerptPostId="1045" WikiPostId="1044" />
+  <row Id="362" TagName="ms-access-2010" Count="7" ExcerptPostId="9791" WikiPostId="9790" />
+  <row Id="363" TagName="jersey" Count="4" ExcerptPostId="1210" WikiPostId="1209" />
+  <row Id="364" TagName="atmosphere" Count="2" ExcerptPostId="1109" WikiPostId="1108" />
+  <row Id="365" TagName="swagger" Count="2" ExcerptPostId="1104" WikiPostId="1103" />
+  <row Id="366" TagName="abap" Count="1" ExcerptPostId="2478" WikiPostId="2477" />
+  <row Id="367" TagName="poo" Count="10" ExcerptPostId="1068" WikiPostId="1067" />
+  <row Id="368" TagName="postgresql" Count="33" ExcerptPostId="1080" WikiPostId="1079" />
+  <row Id="369" TagName="rodbc" Count="2" />
+  <row Id="370" TagName="java-8" Count="5" ExcerptPostId="2369" WikiPostId="2368" />
+  <row Id="372" TagName="bigdecimal" Count="2" />
+  <row Id="373" TagName="redondeo" Count="2" ExcerptPostId="10028" WikiPostId="10027" />
+  <row Id="374" TagName="double" Count="2" ExcerptPostId="1612" WikiPostId="1611" />
+  <row Id="375" TagName="nuget" Count="2" ExcerptPostId="1397" WikiPostId="1396" />
+  <row Id="376" TagName="web2py" Count="16" ExcerptPostId="1670" WikiPostId="1669" />
+  <row Id="377" TagName="magento2" Count="1" ExcerptPostId="9813" WikiPostId="9812" />
+  <row Id="378" TagName="backbone" Count="4" ExcerptPostId="1383" WikiPostId="1382" />
+  <row Id="379" TagName="bootstrap" Count="93" ExcerptPostId="1536" WikiPostId="1535" />
+  <row Id="380" TagName="apache-poi" Count="5" ExcerptPostId="1190" WikiPostId="1189" />
+  <row Id="381" TagName="ssms" Count="1" ExcerptPostId="1192" WikiPostId="1191" />
+  <row Id="382" TagName="swift2" Count="74" ExcerptPostId="1583" WikiPostId="1582" />
+  <row Id="383" TagName="ofuscacion" Count="1" ExcerptPostId="1628" WikiPostId="1627" />
+  <row Id="384" TagName="tsql" Count="5" ExcerptPostId="1206" WikiPostId="1205" />
+  <row Id="386" TagName="azure-storage" Count="1" ExcerptPostId="1863" WikiPostId="1862" />
+  <row Id="388" TagName="sqlite3" Count="7" ExcerptPostId="1338" WikiPostId="1337" />
+  <row Id="389" TagName="bookmarklet" Count="1" ExcerptPostId="1255" WikiPostId="1254" />
+  <row Id="390" TagName="gmail" Count="5" ExcerptPostId="1257" WikiPostId="1256" />
+  <row Id="391" TagName="lista" Count="8" ExcerptPostId="1624" WikiPostId="1623" />
+  <row Id="394" TagName="windows" Count="40" ExcerptPostId="1676" WikiPostId="1675" />
+  <row Id="395" TagName="avd" Count="1" ExcerptPostId="1288" WikiPostId="1287" />
+  <row Id="396" TagName="firebird" Count="7" ExcerptPostId="1302" WikiPostId="1301" />
+  <row Id="397" TagName="facebook" Count="14" ExcerptPostId="2360" WikiPostId="2359" />
+  <row Id="398" TagName="internet-explorer-11" Count="2" ExcerptPostId="3159" WikiPostId="3158" />
+  <row Id="400" TagName="asp.net-mvc" Count="68" ExcerptPostId="1581" WikiPostId="1580" />
+  <row Id="401" TagName="yield" Count="2" />
+  <row Id="402" TagName="generadores" Count="1" />
+  <row Id="403" TagName="visual-studio-2010" Count="5" ExcerptPostId="5314" WikiPostId="5313" />
+  <row Id="404" TagName="wolfram-mathematica" Count="1" ExcerptPostId="1365" WikiPostId="1364" />
+  <row Id="405" TagName="thread" Count="9" ExcerptPostId="5264" WikiPostId="5263" />
+  <row Id="406" TagName="multitasking" Count="1" ExcerptPostId="1719" WikiPostId="1718" />
+  <row Id="407" TagName="underscorejs" Count="4" ExcerptPostId="1529" WikiPostId="1528" />
+  <row Id="408" TagName="quartz" Count="1" />
+  <row Id="409" TagName="jboss-eap" Count="1" ExcerptPostId="2933" WikiPostId="2932" />
+  <row Id="410" TagName="ember.js" Count="1" ExcerptPostId="1406" WikiPostId="1405" />
+  <row Id="411" TagName="corona" Count="1" ExcerptPostId="1401" WikiPostId="1400" />
+  <row Id="412" TagName="clojure" Count="1" ExcerptPostId="2418" WikiPostId="2417" />
+  <row Id="413" TagName="pyquery" Count="1" />
+  <row Id="414" TagName="consola" Count="4" ExcerptPostId="1615" WikiPostId="1614" />
+  <row Id="415" TagName="proceso" Count="4" ExcerptPostId="7105" WikiPostId="7104" />
+  <row Id="416" TagName="paso-por-valor" Count="3" ExcerptPostId="5270" WikiPostId="5269" />
+  <row Id="417" TagName="paso-por-referencia" Count="3" ExcerptPostId="5266" WikiPostId="5265" />
+  <row Id="418" TagName="debian" Count="13" ExcerptPostId="1463" WikiPostId="1462" />
+  <row Id="419" TagName="ntfs" Count="1" ExcerptPostId="1515" WikiPostId="1514" />
+  <row Id="420" TagName="qt" Count="5" ExcerptPostId="1481" WikiPostId="1480" />
+  <row Id="421" TagName="jquery-datepicker" Count="5" ExcerptPostId="1562" WikiPostId="1561" />
+  <row Id="422" TagName="estilos-de-usuario" Count="1" />
+  <row Id="423" TagName="google-drive" Count="3" ExcerptPostId="1569" WikiPostId="1568" />
+  <row Id="424" TagName="asincrónico" Count="2" ExcerptPostId="1564" WikiPostId="1563" />
+  <row Id="425" TagName="couchdb" Count="1" ExcerptPostId="1639" WikiPostId="1638" />
+  <row Id="426" TagName="jdbc" Count="4" ExcerptPostId="1579" WikiPostId="1578" />
+  <row Id="427" TagName="firebase" Count="16" ExcerptPostId="2537" WikiPostId="2536" />
+  <row Id="428" TagName="meteor" Count="8" ExcerptPostId="1641" WikiPostId="1640" />
+  <row Id="429" TagName="paquetes" Count="1" />
+  <row Id="430" TagName="cuenta-usuario" Count="4" />
+  <row Id="431" TagName="spring-mvc" Count="18" ExcerptPostId="1691" WikiPostId="1690" />
+  <row Id="432" TagName="seo" Count="3" ExcerptPostId="1637" WikiPostId="1636" />
+  <row Id="434" TagName="uploadify" Count="1" />
+  <row Id="435" TagName="joomla3" Count="8" ExcerptPostId="2358" WikiPostId="2357" />
+  <row Id="436" TagName="sqlfiddle" Count="4" ExcerptPostId="5687" WikiPostId="5686" />
+  <row Id="437" TagName="alamofire" Count="1" />
+  <row Id="439" TagName="jsf" Count="34" ExcerptPostId="1777" WikiPostId="1776" />
+  <row Id="440" TagName="primefaces" Count="15" ExcerptPostId="1857" WikiPostId="1856" />
+  <row Id="442" TagName="localización" Count="4" ExcerptPostId="1764" WikiPostId="1763" />
+  <row Id="443" TagName="base64" Count="3" ExcerptPostId="1838" WikiPostId="1837" />
+  <row Id="446" TagName="mysqli" Count="29" ExcerptPostId="2355" WikiPostId="2354" />
+  <row Id="447" TagName="motor-de-juego" Count="5" ExcerptPostId="9795" WikiPostId="9794" />
+  <row Id="448" TagName="xhtml" Count="1" ExcerptPostId="1897" WikiPostId="1896" />
+  <row Id="449" TagName="tuplas" Count="1" />
+  <row Id="450" TagName="hikaricp" Count="1" />
+  <row Id="451" TagName="oracle-11g" Count="15" ExcerptPostId="1895" WikiPostId="1894" />
+  <row Id="452" TagName="codeigniter" Count="24" ExcerptPostId="4884" WikiPostId="4883" />
+  <row Id="453" TagName="codeigniter-3" Count="13" ExcerptPostId="7293" WikiPostId="7292" />
+  <row Id="454" TagName="consulta-jerarquica" Count="1" />
+  <row Id="455" TagName="jquery-mobile" Count="2" ExcerptPostId="1893" WikiPostId="1892" />
+  <row Id="456" TagName="makefile" Count="3" ExcerptPostId="1900" WikiPostId="1899" />
+  <row Id="457" TagName="ionic" Count="29" ExcerptPostId="2353" WikiPostId="2352" />
+  <row Id="459" TagName="compatibilidad" Count="1" />
+  <row Id="460" TagName="visual-studio-2015" Count="43" ExcerptPostId="1939" WikiPostId="1938" />
+  <row Id="461" TagName="arduino" Count="6" ExcerptPostId="1941" WikiPostId="1940" />
+  <row Id="463" TagName="datatables" Count="12" ExcerptPostId="12997" WikiPostId="12996" />
+  <row Id="464" TagName="gstreamer" Count="2" />
+  <row Id="465" TagName="unity3d" Count="17" ExcerptPostId="1995" WikiPostId="1994" />
+  <row Id="466" TagName="eventos" Count="6" ExcerptPostId="5392" WikiPostId="5391" />
+  <row Id="467" TagName="dns" Count="2" ExcerptPostId="2351" WikiPostId="2350" />
+  <row Id="468" TagName="iana" Count="1" />
+  <row Id="469" TagName="normas" Count="1" />
+  <row Id="470" TagName="2d" Count="1" ExcerptPostId="2146" WikiPostId="2145" />
+  <row Id="472" TagName="google-chrome" Count="7" ExcerptPostId="2367" WikiPostId="2366" />
+  <row Id="473" TagName="oauth" Count="6" ExcerptPostId="2044" WikiPostId="2043" />
+  <row Id="475" TagName="android-studio" Count="134" ExcerptPostId="2227" WikiPostId="2226" />
+  <row Id="476" TagName="prototipo" Count="1" />
+  <row Id="477" TagName="clickonce" Count="1" ExcerptPostId="2048" WikiPostId="2047" />
+  <row Id="478" TagName="deployment" Count="6" ExcerptPostId="6302" WikiPostId="6301" />
+  <row Id="480" TagName="end-of-line" Count="1" ExcerptPostId="2349" WikiPostId="2348" />
+  <row Id="481" TagName="alfresco" Count="2" ExcerptPostId="2088" WikiPostId="2087" />
+  <row Id="482" TagName="ftp" Count="6" ExcerptPostId="2097" WikiPostId="2096" />
+  <row Id="483" TagName="gs1" Count="1" />
+  <row Id="484" TagName="jsfiddle" Count="2" ExcerptPostId="7928" WikiPostId="7927" />
+  <row Id="485" TagName="scss" Count="2" ExcerptPostId="9663" WikiPostId="9662" />
+  <row Id="486" TagName="uwp" Count="15" ExcerptPostId="2141" WikiPostId="2140" />
+  <row Id="487" TagName="celery" Count="1" />
+  <row Id="488" TagName="io" Count="1" />
+  <row Id="489" TagName="powershell" Count="3" ExcerptPostId="2138" WikiPostId="2137" />
+  <row Id="491" TagName="sass" Count="3" ExcerptPostId="2144" WikiPostId="2143" />
+  <row Id="492" TagName="gulp-ruby-sass" Count="1" />
+  <row Id="493" TagName="gulp" Count="4" ExcerptPostId="3902" WikiPostId="3901" />
+  <row Id="494" TagName="gulp-sass" Count="1" />
+  <row Id="495" TagName="hapijs" Count="1" ExcerptPostId="2192" WikiPostId="2191" />
+  <row Id="496" TagName="lab" Count="1" />
+  <row Id="498" TagName="gradle" Count="11" ExcerptPostId="2170" WikiPostId="2169" />
+  <row Id="499" TagName="operador" Count="4" ExcerptPostId="2207" WikiPostId="2206" />
+  <row Id="500" TagName="webgl" Count="2" ExcerptPostId="2365" WikiPostId="2364" />
+  <row Id="502" TagName="google-datastore" Count="2" ExcerptPostId="3655" WikiPostId="3654" />
+  <row Id="503" TagName="google-app-engine" Count="10" ExcerptPostId="3133" WikiPostId="3132" />
+  <row Id="504" TagName="objectify" Count="2" ExcerptPostId="3653" WikiPostId="3652" />
+  <row Id="505" TagName="constantes" Count="2" ExcerptPostId="4400" WikiPostId="4399" />
+  <row Id="506" TagName="tkinter" Count="5" ExcerptPostId="7103" WikiPostId="7102" />
+  <row Id="507" TagName="linq" Count="27" ExcerptPostId="2372" WikiPostId="2371" />
+  <row Id="508" TagName="apache" Count="36" ExcerptPostId="2347" WikiPostId="2346" />
+  <row Id="511" TagName="base-de-datos" Count="33" ExcerptPostId="5010" WikiPostId="5009" />
+  <row Id="512" TagName="dup" Count="1" ExcerptPostId="3364" WikiPostId="3363" />
+  <row Id="513" TagName="subversion" Count="1" ExcerptPostId="2414" WikiPostId="2413" />
+  <row Id="514" TagName="svn" Count="1" ExcerptPostId="2416" WikiPostId="2415" />
+  <row Id="515" TagName="parse.com" Count="4" ExcerptPostId="2422" WikiPostId="2421" />
+  <row Id="516" TagName="highcharts" Count="8" ExcerptPostId="2476" WikiPostId="2475" />
+  <row Id="518" TagName="azure-redis" Count="2" />
+  <row Id="519" TagName="split" Count="2" />
+  <row Id="520" TagName="delimitador" Count="1" />
+  <row Id="521" TagName="entity-framework-6" Count="11" ExcerptPostId="2712" WikiPostId="2711" />
+  <row Id="522" TagName="ingeniería-inversa" Count="1" ExcerptPostId="7131" WikiPostId="7130" />
+  <row Id="524" TagName="binding" Count="9" />
+  <row Id="525" TagName="mvvm" Count="8" ExcerptPostId="2719" WikiPostId="2718" />
+  <row Id="526" TagName="swt" Count="1" ExcerptPostId="2745" WikiPostId="2744" />
+  <row Id="527" TagName=".htaccess" Count="12" ExcerptPostId="3026" WikiPostId="3025" />
+  <row Id="528" TagName="redirección" Count="5" ExcerptPostId="9802" WikiPostId="9801" />
+  <row Id="529" TagName="reescritura-url" Count="3" ExcerptPostId="9800" WikiPostId="9799" />
+  <row Id="530" TagName="mod-rewrite" Count="4" ExcerptPostId="9659" WikiPostId="9658" />
+  <row Id="531" TagName="pm2" Count="1" ExcerptPostId="3362" WikiPostId="3361" />
+  <row Id="532" TagName="pycharm" Count="1" ExcerptPostId="2774" WikiPostId="2773" />
+  <row Id="533" TagName="fields" Count="1" />
+  <row Id="534" TagName="linq-to-sql" Count="2" ExcerptPostId="2714" WikiPostId="2713" />
+  <row Id="535" TagName="edmx" Count="1" />
+  <row Id="536" TagName="dbml" Count="1" ExcerptPostId="2777" WikiPostId="2776" />
+  <row Id="537" TagName="windows-installer" Count="1" ExcerptPostId="2931" WikiPostId="2930" />
+  <row Id="538" TagName="scala" Count="2" ExcerptPostId="2717" WikiPostId="2716" />
+  <row Id="539" TagName="internet-explorer" Count="3" ExcerptPostId="3157" WikiPostId="3156" />
+  <row Id="540" TagName="internet-explorer-9" Count="1" />
+  <row Id="541" TagName="google-web-designer" Count="1" />
+  <row Id="542" TagName="sqlite" Count="21" ExcerptPostId="2725" WikiPostId="2724" />
+  <row Id="543" TagName="spring-security" Count="7" ExcerptPostId="2758" WikiPostId="2757" />
+  <row Id="544" TagName="windows10" Count="6" ExcerptPostId="2765" WikiPostId="2764" />
+  <row Id="545" TagName="android-statusbar" Count="1" />
+  <row Id="546" TagName="conflictos" Count="2" />
+  <row Id="547" TagName="visual-studio-2013" Count="3" ExcerptPostId="2923" WikiPostId="2922" />
+  <row Id="548" TagName="revisión-de-código" Count="22" ExcerptPostId="2785" WikiPostId="2784" />
+  <row Id="550" TagName="google-visualization" Count="1" />
+  <row Id="552" TagName="angular-directivas" Count="9" ExcerptPostId="9999" WikiPostId="9998" />
+  <row Id="553" TagName="ecmascript-2015" Count="4" ExcerptPostId="2842" WikiPostId="2841" />
+  <row Id="554" TagName="c++98" Count="2" />
+  <row Id="555" TagName="express" Count="6" ExcerptPostId="2909" WikiPostId="2908" />
+  <row Id="556" TagName="gpg" Count="1" ExcerptPostId="2907" WikiPostId="2906" />
+  <row Id="557" TagName="windowchrome" Count="1" />
+  <row Id="558" TagName="intellij" Count="4" ExcerptPostId="2915" WikiPostId="2914" />
+  <row Id="559" TagName="javadoc" Count="2" ExcerptPostId="2904" WikiPostId="2903" />
+  <row Id="560" TagName="registro-windows" Count="1" ExcerptPostId="2936" WikiPostId="2935" />
+  <row Id="562" TagName="less" Count="1" ExcerptPostId="3482" WikiPostId="3481" />
+  <row Id="563" TagName="asp" Count="11" ExcerptPostId="2979" WikiPostId="2978" />
+  <row Id="564" TagName="midi" Count="1" ExcerptPostId="2983" WikiPostId="2982" />
+  <row Id="565" TagName="bundler" Count="1" ExcerptPostId="3599" WikiPostId="3598" />
+  <row Id="566" TagName="gemfile" Count="2" ExcerptPostId="3117" WikiPostId="3116" />
+  <row Id="568" TagName="filtros-css" Count="1" />
+  <row Id="569" TagName="d3.js" Count="2" ExcerptPostId="3017" WikiPostId="3016" />
+  <row Id="571" TagName="igu" Count="1" />
+  <row Id="572" TagName="plsql" Count="12" ExcerptPostId="3107" WikiPostId="3106" />
+  <row Id="573" TagName="sqldeveloper" Count="5" ExcerptPostId="3155" WikiPostId="3154" />
+  <row Id="575" TagName="docker" Count="3" ExcerptPostId="3280" WikiPostId="3279" />
+  <row Id="576" TagName="lyx" Count="1" ExcerptPostId="3189" WikiPostId="3188" />
+  <row Id="577" TagName="iis" Count="8" ExcerptPostId="3109" WikiPostId="3108" />
+  <row Id="578" TagName="azul-zulu" Count="1" ExcerptPostId="3092" WikiPostId="3091" />
+  <row Id="579" TagName="drools" Count="1" ExcerptPostId="3105" WikiPostId="3104" />
+  <row Id="580" TagName="rabbit-mq" Count="1" ExcerptPostId="3205" WikiPostId="3204" />
+  <row Id="581" TagName="sistemas-expertos" Count="1" />
+  <row Id="583" TagName="amcharts" Count="1" ExcerptPostId="4774" WikiPostId="4773" />
+  <row Id="584" TagName="geo-localizacion" Count="5" ExcerptPostId="7117" WikiPostId="7116" />
+  <row Id="585" TagName="java-9" Count="1" ExcerptPostId="3226" WikiPostId="3225" />
+  <row Id="586" TagName="converters" Count="1" />
+  <row Id="587" TagName="spring-webflow" Count="1" ExcerptPostId="3259" WikiPostId="3258" />
+  <row Id="588" TagName="ns3" Count="1" />
+  <row Id="589" TagName="ibm-midrange" Count="1" />
+  <row Id="590" TagName="as400" Count="2" ExcerptPostId="5924" WikiPostId="5923" />
+  <row Id="594" TagName="jsp" Count="17" ExcerptPostId="3474" WikiPostId="3473" />
+  <row Id="595" TagName="cq5" Count="1" />
+  <row Id="596" TagName="aem" Count="1" />
+  <row Id="598" TagName="tinymce" Count="4" ExcerptPostId="4803" WikiPostId="4802" />
+  <row Id="599" TagName="pygame" Count="2" ExcerptPostId="3486" WikiPostId="3485" />
+  <row Id="600" TagName="dynamics-nav" Count="1" />
+  <row Id="601" TagName="ponyorm" Count="2" ExcerptPostId="3663" WikiPostId="3662" />
+  <row Id="602" TagName="bottle" Count="1" ExcerptPostId="5919" WikiPostId="5918" />
+  <row Id="603" TagName="test-ng" Count="1" />
+  <row Id="605" TagName="django-admin" Count="7" ExcerptPostId="5210" WikiPostId="5209" />
+  <row Id="606" TagName="django-forms" Count="9" ExcerptPostId="5221" WikiPostId="5220" />
+  <row Id="607" TagName="dialogo" Count="4" />
+  <row Id="608" TagName="tweepy" Count="2" ExcerptPostId="3539" WikiPostId="3538" />
+  <row Id="609" TagName="pyqtgraph" Count="1" />
+  <row Id="610" TagName="promises" Count="1" ExcerptPostId="3591" WikiPostId="3590" />
+  <row Id="611" TagName="symfony2" Count="18" ExcerptPostId="5316" WikiPostId="5315" />
+  <row Id="613" TagName="fullcalendar" Count="4" ExcerptPostId="3648" WikiPostId="3647" />
+  <row Id="614" TagName="internacionalización" Count="2" ExcerptPostId="7125" WikiPostId="7124" />
+  <row Id="615" TagName="calculo-relacional" Count="1" ExcerptPostId="3681" WikiPostId="3680" />
+  <row Id="616" TagName="coreutils" Count="1" />
+  <row Id="617" TagName="rest" Count="11" ExcerptPostId="5272" WikiPostId="5271" />
+  <row Id="618" TagName="owl-carousel" Count="1" />
+  <row Id="619" TagName="xstream" Count="1" ExcerptPostId="7093" WikiPostId="7092" />
+  <row Id="620" TagName="spring-tool-suite" Count="2" ExcerptPostId="4393" WikiPostId="4392" />
+  <row Id="621" TagName="javahl" Count="1" />
+  <row Id="622" TagName="aplicación-web" Count="15" ExcerptPostId="9636" WikiPostId="9635" />
+  <row Id="623" TagName="iron-router" Count="2" />
+  <row Id="625" TagName="swing" Count="20" ExcerptPostId="5499" WikiPostId="5498" />
+  <row Id="626" TagName="requirejs" Count="2" ExcerptPostId="3818" WikiPostId="3817" />
+  <row Id="627" TagName="babeljs" Count="3" ExcerptPostId="3861" WikiPostId="3860" />
+  <row Id="629" TagName="javafx" Count="18" ExcerptPostId="3863" WikiPostId="3862" />
+  <row Id="630" TagName="bootstrap-carousel" Count="4" ExcerptPostId="3834" WikiPostId="3833" />
+  <row Id="631" TagName="asterisk" Count="1" ExcerptPostId="3866" WikiPostId="3865" />
+  <row Id="632" TagName="lazarus" Count="1" ExcerptPostId="3882" WikiPostId="3881" />
+  <row Id="633" TagName="angularjs-2.0" Count="4" ExcerptPostId="3885" WikiPostId="3884" />
+  <row Id="634" TagName="pagejs" Count="1" ExcerptPostId="3905" WikiPostId="3904" />
+  <row Id="635" TagName="material-design-lite" Count="5" ExcerptPostId="3935" WikiPostId="3934" />
+  <row Id="638" TagName="jade" Count="2" ExcerptPostId="3988" WikiPostId="3987" />
+  <row Id="639" TagName="android-glide" Count="2" ExcerptPostId="3994" WikiPostId="3993" />
+  <row Id="640" TagName="zip" Count="2" ExcerptPostId="4396" WikiPostId="4395" />
+  <row Id="643" TagName="curl" Count="4" ExcerptPostId="4324" WikiPostId="4323" />
+  <row Id="644" TagName="mono" Count="1" ExcerptPostId="4078" WikiPostId="4077" />
+  <row Id="645" TagName="zepto" Count="1" ExcerptPostId="5143" WikiPostId="5142" />
+  <row Id="646" TagName="staticfiles" Count="1" />
+  <row Id="647" TagName="groovy" Count="5" ExcerptPostId="4150" WikiPostId="4149" />
+  <row Id="648" TagName="serialización" Count="5" ExcerptPostId="4192" WikiPostId="4191" />
+  <row Id="649" TagName="sailsjs" Count="3" ExcerptPostId="4189" WikiPostId="4188" />
+  <row Id="650" TagName="genymotion" Count="3" ExcerptPostId="5883" WikiPostId="5882" />
+  <row Id="651" TagName="jquery-tooltip" Count="1" />
+  <row Id="652" TagName="crystal-reports" Count="3" ExcerptPostId="4326" WikiPostId="4325" />
+  <row Id="653" TagName="twitter-api" Count="6" ExcerptPostId="4809" WikiPostId="4808" />
+  <row Id="654" TagName="wasync" Count="1" ExcerptPostId="4328" WikiPostId="4327" />
+  <row Id="655" TagName="ms-acces-2007" Count="3" ExcerptPostId="4391" WikiPostId="4390" />
+  <row Id="656" TagName="ensamblador" Count="7" ExcerptPostId="4389" WikiPostId="4388" />
+  <row Id="657" TagName="masm" Count="1" ExcerptPostId="4386" WikiPostId="4385" />
+  <row Id="658" TagName="selenium" Count="1" ExcerptPostId="4365" WikiPostId="4364" />
+  <row Id="660" TagName="angular-translate" Count="1" />
+  <row Id="661" TagName="xamarin" Count="10" ExcerptPostId="4426" WikiPostId="4425" />
+  <row Id="662" TagName="moodle" Count="1" ExcerptPostId="4462" WikiPostId="4461" />
+  <row Id="663" TagName="md5" Count="1" ExcerptPostId="4468" WikiPostId="4467" />
+  <row Id="664" TagName="encriptacion" Count="7" ExcerptPostId="4644" WikiPostId="4643" />
+  <row Id="665" TagName="jboss-as" Count="1" />
+  <row Id="666" TagName="jboss-cli" Count="1" />
+  <row Id="667" TagName="jboss-as-7" Count="2" />
+  <row Id="668" TagName="inyeccion-de-dependencias" Count="2" ExcerptPostId="4751" WikiPostId="4750" />
+  <row Id="670" TagName="libcurl" Count="1" />
+  <row Id="671" TagName="ngcookies" Count="1" />
+  <row Id="672" TagName="datepicker" Count="9" ExcerptPostId="6309" WikiPostId="6308" />
+  <row Id="673" TagName="libgdx" Count="2" />
+  <row Id="676" TagName="sync-framework" Count="1" ExcerptPostId="4749" WikiPostId="4748" />
+  <row Id="677" TagName="interop" Count="2" />
+  <row Id="678" TagName="genéricos" Count="2" />
+  <row Id="680" TagName="extjs" Count="9" ExcerptPostId="5136" WikiPostId="5135" />
+  <row Id="681" TagName="autocompletar" Count="2" />
+  <row Id="682" TagName="jquery-ui" Count="2" ExcerptPostId="5026" WikiPostId="5025" />
+  <row Id="683" TagName="jspdf" Count="3" ExcerptPostId="5021" WikiPostId="5020" />
+  <row Id="684" TagName="fecha" Count="3" ExcerptPostId="10032" WikiPostId="10031" />
+  <row Id="686" TagName="android-drawerlayout" Count="1" />
+  <row Id="687" TagName="drag-and-drop" Count="3" ExcerptPostId="5280" WikiPostId="5279" />
+  <row Id="688" TagName="agarrar-y-soltar" Count="2" ExcerptPostId="5278" WikiPostId="5277" />
+  <row Id="689" TagName="django-smart-selects" Count="2" />
+  <row Id="690" TagName="oauth2" Count="3" ExcerptPostId="5284" WikiPostId="5283" />
+  <row Id="692" TagName="formulas" Count="3" ExcerptPostId="5163" WikiPostId="5162" />
+  <row Id="693" TagName="stored-procedure" Count="7" ExcerptPostId="9640" WikiPostId="9639" />
+  <row Id="694" TagName="timespan" Count="1" />
+  <row Id="695" TagName="date" Count="11" ExcerptPostId="9643" WikiPostId="9642" />
+  <row Id="696" TagName="apache-commons-validator" Count="1" />
+  <row Id="697" TagName="irc" Count="1" />
+  <row Id="698" TagName="animación" Count="3" ExcerptPostId="5282" WikiPostId="5281" />
+  <row Id="699" TagName="pyqt" Count="2" />
+  <row Id="700" TagName="bluetooth" Count="3" ExcerptPostId="5276" WikiPostId="5275" />
+  <row Id="701" TagName="odoo" Count="2" ExcerptPostId="5913" WikiPostId="5912" />
+  <row Id="702" TagName="álgebra-relacional" Count="1" ExcerptPostId="7123" WikiPostId="7122" />
+  <row Id="703" TagName="prestashop" Count="4" ExcerptPostId="5689" WikiPostId="5688" />
+  <row Id="704" TagName="odata" Count="1" />
+  <row Id="705" TagName="apache-shiro" Count="1" ExcerptPostId="5389" WikiPostId="5388" />
+  <row Id="707" TagName="materialize" Count="3" ExcerptPostId="11632" WikiPostId="11631" />
+  <row Id="708" TagName="wso2" Count="2" />
+  <row Id="709" TagName="kerberos" Count="2" ExcerptPostId="5909" WikiPostId="5908" />
+  <row Id="710" TagName="java-stream" Count="3" />
+  <row Id="711" TagName="magento-1.9" Count="1" ExcerptPostId="9811" WikiPostId="9810" />
+  <row Id="712" TagName="eficiencia" Count="1" />
+  <row Id="715" TagName="angularjs-injector" Count="3" />
+  <row Id="716" TagName="hibernate-formula" Count="1" />
+  <row Id="717" TagName="richfaces" Count="1" />
+  <row Id="718" TagName="unreal-engine" Count="1" ExcerptPostId="5907" WikiPostId="5906" />
+  <row Id="719" TagName="wollok" Count="1" ExcerptPostId="5619" WikiPostId="5618" />
+  <row Id="720" TagName="soundpool" Count="1" ExcerptPostId="9818" WikiPostId="9817" />
+  <row Id="721" TagName="slack-api" Count="1" ExcerptPostId="9821" WikiPostId="9820" />
+  <row Id="722" TagName="árboles" Count="1" ExcerptPostId="7121" WikiPostId="7120" />
+  <row Id="723" TagName="árboles-binarios" Count="1" ExcerptPostId="5901" WikiPostId="5900" />
+  <row Id="724" TagName="webpack" Count="1" ExcerptPostId="5692" WikiPostId="5691" />
+  <row Id="725" TagName="wagtail" Count="1" ExcerptPostId="5695" WikiPostId="5694" />
+  <row Id="726" TagName="failregex" Count="1" />
+  <row Id="727" TagName="fail2ban" Count="1" />
+  <row Id="728" TagName="wireshark" Count="1" ExcerptPostId="5896" WikiPostId="5895" />
+  <row Id="729" TagName="twig" Count="2" ExcerptPostId="9871" WikiPostId="9870" />
+  <row Id="731" TagName="indices" Count="2" />
+  <row Id="733" TagName="autenticación" Count="4" ExcerptPostId="5794" WikiPostId="5793" />
+  <row Id="735" TagName="handlebars.js" Count="1" ExcerptPostId="5808" WikiPostId="5807" />
+  <row Id="737" TagName="plotly" Count="1" ExcerptPostId="5850" WikiPostId="5849" />
+  <row Id="738" TagName="reportviewer" Count="4" ExcerptPostId="5853" WikiPostId="5852" />
+  <row Id="739" TagName="lua" Count="3" ExcerptPostId="5861" WikiPostId="5860" />
+  <row Id="740" TagName="polymer" Count="3" ExcerptPostId="5880" WikiPostId="5879" />
+  <row Id="741" TagName="hashmap" Count="3" ExcerptPostId="5911" WikiPostId="5910" />
+  <row Id="742" TagName="map" Count="5" ExcerptPostId="5905" WikiPostId="5904" />
+  <row Id="743" TagName="bitmap" Count="2" ExcerptPostId="5899" WikiPostId="5898" />
+  <row Id="744" TagName="jquery-validate" Count="5" ExcerptPostId="6098" WikiPostId="6097" />
+  <row Id="745" TagName="mybatis" Count="1" ExcerptPostId="5987" WikiPostId="5986" />
+  <row Id="746" TagName="spritekit" Count="1" />
+  <row Id="747" TagName="rubygems" Count="1" />
+  <row Id="748" TagName="electron" Count="2" ExcerptPostId="5996" WikiPostId="5995" />
+  <row Id="749" TagName="google-plus" Count="2" ExcerptPostId="7127" WikiPostId="7126" />
+  <row Id="750" TagName="google+" Count="2" ExcerptPostId="7129" WikiPostId="7128" />
+  <row Id="751" TagName="grobid" Count="1" />
+  <row Id="752" TagName="grails" Count="15" ExcerptPostId="6300" WikiPostId="6299" />
+  <row Id="753" TagName="heroku" Count="5" ExcerptPostId="6624" WikiPostId="6623" />
+  <row Id="754" TagName="generator" Count="1" />
+  <row Id="755" TagName="coroutine" Count="1" />
+  <row Id="757" TagName="paypal" Count="2" ExcerptPostId="7115" WikiPostId="7114" />
+  <row Id="758" TagName="matlab" Count="4" ExcerptPostId="6090" WikiPostId="6089" />
+  <row Id="759" TagName="modulación" Count="1" />
+  <row Id="760" TagName="frecuencia" Count="1" />
+  <row Id="761" TagName="local-storage" Count="2" ExcerptPostId="6109" WikiPostId="6108" />
+  <row Id="762" TagName="jenkins" Count="2" />
+  <row Id="763" TagName="react-native" Count="3" ExcerptPostId="6190" WikiPostId="6189" />
+  <row Id="764" TagName="angular2-template" Count="1" ExcerptPostId="7076" WikiPostId="7075" />
+  <row Id="766" TagName="trigger" Count="4" ExcerptPostId="9653" WikiPostId="9652" />
+  <row Id="767" TagName="intel-xdk" Count="2" ExcerptPostId="6238" WikiPostId="6237" />
+  <row Id="768" TagName="subrepositorios" Count="1" />
+  <row Id="769" TagName="boxing" Count="1" />
+  <row Id="770" TagName="sobrecarga" Count="2" />
+  <row Id="771" TagName="mongoose" Count="2" ExcerptPostId="6373" WikiPostId="6372" />
+  <row Id="774" TagName="jasper-reports" Count="5" />
+  <row Id="775" TagName="diseño" Count="4" ExcerptPostId="9648" WikiPostId="9647" />
+  <row Id="776" TagName="windows-phone" Count="10" ExcerptPostId="9638" WikiPostId="9637" />
+  <row Id="777" TagName="typings" Count="1" />
+  <row Id="778" TagName="vscode" Count="1" ExcerptPostId="6416" WikiPostId="6415" />
+  <row Id="779" TagName="chartkick" Count="1" />
+  <row Id="781" TagName="android-viewpager" Count="2" />
+  <row Id="782" TagName="herencia" Count="6" ExcerptPostId="9646" WikiPostId="9645" />
+  <row Id="783" TagName="reflection" Count="2" />
+  <row Id="784" TagName="cabeceras-http" Count="1" ExcerptPostId="10039" WikiPostId="10038" />
+  <row Id="785" TagName="jackrabbit-oak" Count="1" />
+  <row Id="786" TagName="devexpress" Count="14" />
+  <row Id="787" TagName="adword" Count="1" />
+  <row Id="788" TagName="setinterval" Count="1" />
+  <row Id="789" TagName="odbc" Count="2" ExcerptPostId="7111" WikiPostId="7110" />
+  <row Id="790" TagName="xampp" Count="6" ExcerptPostId="9249" WikiPostId="9248" />
+  <row Id="792" TagName="liferay" Count="1" />
+  <row Id="795" TagName="ejb" Count="4" ExcerptPostId="9786" WikiPostId="9785" />
+  <row Id="796" TagName="atom-editor" Count="1" ExcerptPostId="7081" WikiPostId="7080" />
+  <row Id="797" TagName="openlayers" Count="2" ExcerptPostId="7095" WikiPostId="7094" />
+  <row Id="798" TagName="openlayers-3" Count="1" />
+  <row Id="799" TagName="zend" Count="2" ExcerptPostId="9809" WikiPostId="9808" />
+  <row Id="802" TagName="intellisence" Count="1" />
+  <row Id="803" TagName="extension-method" Count="2" />
+  <row Id="804" TagName="websocket" Count="2" ExcerptPostId="9366" WikiPostId="9365" />
+  <row Id="805" TagName="progressbar" Count="1" />
+  <row Id="806" TagName="coffeescript" Count="3" ExcerptPostId="7394" WikiPostId="7393" />
+  <row Id="807" TagName="pdo" Count="6" ExcerptPostId="9350" WikiPostId="9349" />
+  <row Id="808" TagName="cms" Count="1" ExcerptPostId="9174" WikiPostId="9173" />
+  <row Id="809" TagName="visual-c++" Count="4" ExcerptPostId="9807" WikiPostId="9806" />
+  <row Id="810" TagName="dev-c++" Count="2" ExcerptPostId="9782" WikiPostId="9781" />
+  <row Id="812" TagName="visual-basic-6" Count="5" ExcerptPostId="9650" WikiPostId="9649" />
+  <row Id="813" TagName="svg" Count="2" ExcerptPostId="9720" WikiPostId="9719" />
+  <row Id="814" TagName="django-migrations" Count="1" />
+  <row Id="815" TagName="zoom" Count="1" />
+  <row Id="816" TagName="viewport" Count="1" ExcerptPostId="10046" WikiPostId="10045" />
+  <row Id="817" TagName="scale" Count="1" />
+  <row Id="818" TagName="anotaciones" Count="1" />
+  <row Id="819" TagName="sencha-touch" Count="1" />
+  <row Id="820" TagName="anaconda" Count="1" />
+  <row Id="822" TagName="bitbucket" Count="1" />
+  <row Id="823" TagName="material-design" Count="2" ExcerptPostId="10112" WikiPostId="10111" />
+  <row Id="824" TagName="phonegap" Count="5" />
+  <row Id="825" TagName="wildfly" Count="1" ExcerptPostId="8137" WikiPostId="8136" />
+  <row Id="826" TagName="jmc" Count="1" ExcerptPostId="8139" WikiPostId="8138" />
+  <row Id="827" TagName="cmd" Count="2" />
+  <row Id="828" TagName="visual-studio-ts" Count="1" ExcerptPostId="8169" WikiPostId="8168" />
+  <row Id="829" TagName="transacciones" Count="3" ExcerptPostId="10041" WikiPostId="10040" />
+  <row Id="830" TagName=".htpasswd" Count="1" ExcerptPostId="10048" WikiPostId="10047" />
+  <row Id="831" TagName="picturebox" Count="2" />
+  <row Id="832" TagName="webbrowser" Count="2" />
+  <row Id="833" TagName="quicksort" Count="1" />
+  <row Id="834" TagName="ordenación" Count="1" />
+  <row Id="835" TagName="ngview" Count="1" />
+  <row Id="836" TagName="prolog" Count="2" ExcerptPostId="8577" WikiPostId="8576" />
+  <row Id="839" TagName="unity2d" Count="1" />
+  <row Id="840" TagName="preprocesador" Count="1" />
+  <row Id="841" TagName="glassfish" Count="4" ExcerptPostId="9342" WikiPostId="9341" />
+  <row Id="842" TagName="kinetic" Count="1" />
+  <row Id="843" TagName="opengraph" Count="1" />
+  <row Id="844" TagName="ng-cordova" Count="4" ExcerptPostId="8671" WikiPostId="8670" />
+  <row Id="845" TagName="recyclerview" Count="3" />
+  <row Id="846" TagName="lanterna" Count="1" />
+  <row Id="848" TagName="xamarin.forms" Count="2" />
+  <row Id="850" TagName="kivy" Count="1" ExcerptPostId="8892" WikiPostId="8891" />
+  <row Id="851" TagName="socket.io" Count="1" ExcerptPostId="8929" WikiPostId="8928" />
+  <row Id="852" TagName="vue.js" Count="1" ExcerptPostId="9665" WikiPostId="9664" />
+  <row Id="854" TagName="jqgrid" Count="2" ExcerptPostId="9805" WikiPostId="9804" />
+  <row Id="855" TagName="live-template" Count="1" />
+  <row Id="859" TagName="firefox" Count="1" ExcerptPostId="9297" WikiPostId="9296" />
+  <row Id="860" TagName="jsonp" Count="1" ExcerptPostId="9363" WikiPostId="9362" />
+  <row Id="863" TagName="tomcat" Count="6" ExcerptPostId="9712" WikiPostId="9711" />
+  <row Id="865" TagName="cucumber" Count="1" />
+  <row Id="867" TagName="x86" Count="1" />
+  <row Id="870" TagName="autofac" Count="1" ExcerptPostId="9933" WikiPostId="9932" />
+  <row Id="871" TagName="csv" Count="4" ExcerptPostId="9945" WikiPostId="9944" />
+  <row Id="872" TagName="ldap" Count="1" />
+  <row Id="873" TagName="openldap" Count="1" />
+  <row Id="874" TagName="google-play" Count="4" ExcerptPostId="10205" WikiPostId="10204" />
+  <row Id="875" TagName="gps" Count="1" ExcerptPostId="11189" WikiPostId="11188" />
+  <row Id="876" TagName="cython" Count="1" ExcerptPostId="10015" WikiPostId="10014" />
+  <row Id="877" TagName="crontab" Count="2" />
+  <row Id="878" TagName="ant" Count="1" ExcerptPostId="10199" WikiPostId="10198" />
+  <row Id="879" TagName="domain-driven-design" Count="1" />
+  <row Id="881" TagName="winapi" Count="2" />
+  <row Id="882" TagName="netcdf" Count="1" />
+  <row Id="883" TagName="netcdf4" Count="1" />
+  <row Id="884" TagName="lambda" Count="1" />
+  <row Id="885" TagName="inyección-sql" Count="1" />
+  <row Id="886" TagName="jersey2" Count="1" />
+  <row Id="888" TagName="pfsense" Count="1" />
+  <row Id="889" TagName="gpl" Count="1" />
+  <row Id="890" TagName="arcgis" Count="1" ExcerptPostId="11191" WikiPostId="11190" />
+  <row Id="891" TagName="julia" Count="1" ExcerptPostId="11080" WikiPostId="11079" />
+  <row Id="892" TagName="webservice" Count="7" ExcerptPostId="11098" WikiPostId="11097" />
+  <row Id="893" TagName="emmet" Count="2" />
+  <row Id="894" TagName="layout" Count="1" />
+  <row Id="895" TagName="profiler" Count="1" />
+  <row Id="896" TagName="foundation" Count="1" ExcerptPostId="11459" WikiPostId="11458" />
+  <row Id="897" TagName="ngroute" Count="2" />
+  <row Id="898" TagName="httpd" Count="1" />
+  <row Id="899" TagName="centos" Count="1" />
+  <row Id="900" TagName="wav" Count="1" ExcerptPostId="11605" WikiPostId="11604" />
+  <row Id="901" TagName="realm" Count="2" ExcerptPostId="11534" WikiPostId="11533" />
+  <row Id="903" TagName="android-widget" Count="1" ExcerptPostId="11689" WikiPostId="11688" />
+  <row Id="905" TagName="c#-4.0" Count="0" />
+  <row Id="906" TagName="alertdialog" Count="7" />
+  <row Id="907" TagName="errores" Count="2" />
+  <row Id="908" TagName="stylus" Count="1" ExcerptPostId="12962" WikiPostId="12961" />
+  <row Id="911" TagName="laravel-4" Count="1" />
+  <row Id="912" TagName="gridview" Count="1" />
+  <row Id="913" TagName="android-sdk" Count="1" />
+  <row Id="914" TagName="update" Count="1" />
+  <row Id="915" TagName="jooq" Count="1" />
+  <row Id="916" TagName="mariadb" Count="1" ExcerptPostId="13228" WikiPostId="13227" />
+  <row Id="917" TagName="virtualbox" Count="1" ExcerptPostId="13311" WikiPostId="13310" />
+  <row Id="918" TagName="multichoice" Count="1" />
+  <row Id="919" TagName="pyinstaller" Count="1" ExcerptPostId="13525" WikiPostId="13524" />
+  <row Id="920" TagName="twitter" Count="1" />
+  <row Id="921" TagName="facebook-api" Count="1" />
+  <row Id="922" TagName="adfs" Count="1" />
+  <row Id="923" TagName="searchview" Count="1" />
+  <row Id="924" TagName="arrayadapter" Count="1" />
+  <row Id="925" TagName="jboss-5.x" Count="1" />
+  <row Id="926" TagName="powerbuilder" Count="1" />
+  <row Id="928" TagName="singlechoice" Count="1" />
+  <row Id="929" TagName="push-notification" Count="1" />
+</tags>

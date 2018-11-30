@@ -50,9 +50,9 @@ def userid_nmat(path,filename):
 	filename2='Nmat_Kmat/'+filename+'_Kmat.pkl'
 	with open(filename2,'wb') as f:
 		pickle.dump(Kmat,f)
-		
-	print "Shows Questionaires provides Answers heavily but not seem otherwise"
-	print Nmat,"\n",Kmat
+	print "----------",filename,"--------------"
+	print "Nmat=",Nmat
+	print "Kmat=",Kmat
 
 
 

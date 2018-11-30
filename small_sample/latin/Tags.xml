@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tags>
+  <row Id="2" TagName="meaning" Count="34" ExcerptPostId="264" WikiPostId="263" />
+  <row Id="3" TagName="specific-words" Count="52" ExcerptPostId="465" WikiPostId="464" />
+  <row Id="4" TagName="articles" Count="3" />
+  <row Id="5" TagName="translation" Count="59" ExcerptPostId="135" WikiPostId="134" />
+  <row Id="6" TagName="pronouns" Count="8" />
+  <row Id="7" TagName="agreement" Count="4" />
+  <row Id="8" TagName="predicate" Count="2" />
+  <row Id="9" TagName="gender" Count="3" />
+  <row Id="11" TagName="pronunciation" Count="25" ExcerptPostId="167" WikiPostId="166" />
+  <row Id="12" TagName="classical-latin" Count="87" ExcerptPostId="165" WikiPostId="164" />
+  <row Id="13" TagName="particle" Count="1" />
+  <row Id="14" TagName="etymology" Count="54" ExcerptPostId="233" WikiPostId="232" />
+  <row Id="15" TagName="contemporary-latin" Count="13" ExcerptPostId="10" WikiPostId="9" />
+  <row Id="17" TagName="conjunction" Count="8" />
+  <row Id="19" TagName="orthography" Count="4" />
+  <row Id="22" TagName="accusative" Count="7" />
+  <row Id="23" TagName="history" Count="11" />
+  <row Id="24" TagName="vulgar-latin" Count="6" ExcerptPostId="445" WikiPostId="444" />
+  <row Id="26" TagName="phonetics" Count="4" />
+  <row Id="27" TagName="alphabet" Count="9" ExcerptPostId="274" WikiPostId="273" />
+  <row Id="28" TagName="medieval-latin" Count="18" ExcerptPostId="227" WikiPostId="226" />
+  <row Id="32" TagName="punctuation" Count="5" />
+  <row Id="33" TagName="origin" Count="1" />
+  <row Id="34" TagName="semantics" Count="7" />
+  <row Id="35" TagName="preposition" Count="5" />
+  <row Id="36" TagName="grammar" Count="22" />
+  <row Id="37" TagName="science" Count="2" />
+  <row Id="38" TagName="late-latin" Count="4" ExcerptPostId="225" WikiPostId="224" />
+  <row Id="39" TagName="poetry" Count="10" />
+  <row Id="41" TagName="verbs" Count="15" />
+  <row Id="42" TagName="nuance" Count="19" ExcerptPostId="569" WikiPostId="568" />
+  <row Id="43" TagName="learning" Count="1" />
+  <row Id="44" TagName="conjugation" Count="7" />
+  <row Id="45" TagName="deponent-verbs" Count="3" />
+  <row Id="46" TagName="example-request" Count="22" ExcerptPostId="65" WikiPostId="64" />
+  <row Id="47" TagName="dictionary" Count="7" />
+  <row Id="48" TagName="dissimilation" Count="1" />
+  <row Id="49" TagName="language-evolution" Count="20" ExcerptPostId="218" WikiPostId="217" />
+  <row Id="50" TagName="vocabulary" Count="8" />
+  <row Id="51" TagName="definitions" Count="4" />
+  <row Id="52" TagName="spanish" Count="1" />
+  <row Id="53" TagName="italian" Count="1" />
+  <row Id="54" TagName="french" Count="2" />
+  <row Id="56" TagName="abbreviations" Count="3" />
+  <row Id="59" TagName="llpsi" Count="4" ExcerptPostId="114" WikiPostId="113" />
+  <row Id="60" TagName="vulgate" Count="4" />
+  <row Id="61" TagName="numerals" Count="2" />
+  <row Id="62" TagName="word-order" Count="4" />
+  <row Id="63" TagName="style" Count="4" />
+  <row Id="64" TagName="greek" Count="8" ExcerptPostId="630" WikiPostId="629" />
+  <row Id="65" TagName="ablative-absolute" Count="2" />
+  <row Id="66" TagName="participles" Count="5" />
+  <row Id="67" TagName="reference-request" Count="3" />
+  <row Id="68" TagName="passive" Count="5" />
+  <row Id="69" TagName="legal-latin" Count="2" />
+  <row Id="70" TagName="philosophy-terms" Count="2" />
+  <row Id="71" TagName="old-latin" Count="2" ExcerptPostId="138" WikiPostId="137" />
+  <row Id="72" TagName="fear-clause" Count="1" />
+  <row Id="73" TagName="word-request" Count="6" />
+  <row Id="74" TagName="ecclesiastical-latin" Count="7" />
+  <row Id="75" TagName="spoken-language" Count="2" />
+  <row Id="76" TagName="new-latin" Count="15" ExcerptPostId="229" WikiPostId="228" />
+  <row Id="77" TagName="calvin" Count="1" />
+  <row Id="78" TagName="enclitic" Count="3" />
+  <row Id="79" TagName="profanity" Count="2" />
+  <row Id="80" TagName="synonyms" Count="2" />
+  <row Id="81" TagName="word-comparison" Count="8" />
+  <row Id="82" TagName="derivation" Count="4" />
+  <row Id="83" TagName="biology" Count="5" />
+  <row Id="84" TagName="geographic-variation" Count="1" />
+  <row Id="85" TagName="affixes" Count="10" />
+  <row Id="86" TagName="phrase-request" Count="3" />
+  <row Id="87" TagName="roman-culture" Count="3" />
+  <row Id="88" TagName="horace" Count="2" />
+  <row Id="90" TagName="proto-indo-european" Count="6" />
+  <row Id="91" TagName="time" Count="3" />
+  <row Id="92" TagName="cooking" Count="1" />
+  <row Id="93" TagName="questions" Count="1" />
+  <row Id="94" TagName="intonation" Count="1" />
+  <row Id="95" TagName="aeneid" Count="2" />
+  <row Id="96" TagName="dative" Count="3" />
+  <row Id="97" TagName="palaeography" Count="1" />
+  <row Id="98" TagName="paleography" Count="1" />
+  <row Id="99" TagName="metre" Count="2" ExcerptPostId="300" WikiPostId="299" />
+  <row Id="100" TagName="vowel" Count="1" />
+  <row Id="101" TagName="synizesis" Count="3" />
+  <row Id="102" TagName="diphthong" Count="3" />
+  <row Id="103" TagName="caesura" Count="1" ExcerptPostId="298" WikiPostId="297" />
+  <row Id="104" TagName="color" Count="1" />
+  <row Id="105" TagName="ablativus" Count="8" />
+  <row Id="106" TagName="differences" Count="2" />
+  <row Id="107" TagName="exclamation" Count="1" />
+  <row Id="108" TagName="morphemes" Count="1" />
+  <row Id="111" TagName="nomini-artis" Count="1" />
+  <row Id="112" TagName="logic" Count="2" />
+  <row Id="113" TagName="law" Count="2" />
+  <row Id="114" TagName="names" Count="9" />
+  <row Id="115" TagName="infinitive" Count="2" />
+  <row Id="117" TagName="locativus" Count="2" />
+  <row Id="119" TagName="martin-luther" Count="1" />
+  <row Id="120" TagName="perfect-tense" Count="4" />
+  <row Id="121" TagName="idiom" Count="21" />
+  <row Id="122" TagName="syntax" Count="10" />
+  <row Id="123" TagName="coniunctivus" Count="4" />
+  <row Id="124" TagName="imperativus" Count="2" />
+  <row Id="125" TagName="modes" Count="1" />
+  <row Id="126" TagName="consecutio-temporum" Count="1" ExcerptPostId="356" WikiPostId="355" />
+  <row Id="127" TagName="subordinate-clause" Count="2" ExcerptPostId="358" WikiPostId="357" />
+  <row Id="128" TagName="accusativus-cum-inf" Count="1" ExcerptPostId="354" WikiPostId="353" />
+  <row Id="129" TagName="tacitus" Count="1" />
+  <row Id="130" TagName="terminology" Count="3" />
+  <row Id="131" TagName="scientific-names" Count="3" ExcerptPostId="373" WikiPostId="372" />
+  <row Id="134" TagName="genus" Count="1" />
+  <row Id="135" TagName="declinatio" Count="19" ExcerptPostId="519" WikiPostId="518" />
+  <row Id="136" TagName="congruentia" Count="1" />
+  <row Id="137" TagName="substantivum" Count="2" />
+  <row Id="138" TagName="adiectivum" Count="6" />
+  <row Id="139" TagName="morphologia" Count="5" />
+  <row Id="140" TagName="erasmus" Count="1" />
+  <row Id="141" TagName="how-do-we-know" Count="1" />
+  <row Id="142" TagName="ablativus-instrumenti" Count="2" />
+  <row Id="143" TagName="future-perfect" Count="1" />
+  <row Id="144" TagName="mathematics" Count="2" />
+  <row Id="145" TagName="ambiguity" Count="2" />
+  <row Id="146" TagName="genitive" Count="4" />
+  <row Id="147" TagName="metamorphoses" Count="2" />
+  <row Id="149" TagName="interrogative-pronouns" Count="1" />
+  <row Id="150" TagName="gellius" Count="1" />
+  <row Id="151" TagName="horatius" Count="1" ExcerptPostId="422" WikiPostId="421" />
+  <row Id="152" TagName="imperative" Count="1" />
+  <row Id="154" TagName="metaphora" Count="1" />
+  <row Id="155" TagName="plural" Count="2" />
+  <row Id="156" TagName="mythology" Count="2" ExcerptPostId="437" WikiPostId="436" />
+  <row Id="157" TagName="first-person" Count="1" />
+  <row Id="158" TagName="phonology" Count="2" />
+  <row Id="159" TagName="sound-change" Count="1" />
+  <row Id="160" TagName="ovidius" Count="2" />
+  <row Id="161" TagName="relative-pronouns" Count="3" />
+  <row Id="162" TagName="gerundium" Count="1" />
+  <row Id="163" TagName="indirect-discourse" Count="1" />
+  <row Id="164" TagName="irony" Count="1" />
+  <row Id="165" TagName="intention" Count="1" />
+  <row Id="166" TagName="de-bello-africo" Count="1" />
+  <row Id="167" TagName="de-bello-hispaniensi" Count="1" />
+  <row Id="168" TagName="gaius-iulius-caesar" Count="2" />
+  <row Id="169" TagName="vergilius" Count="2" ExcerptPostId="476" WikiPostId="475" />
+  <row Id="170" TagName="saying" Count="1" />
+  <row Id="171" TagName="anselmus" Count="1" />
+  <row Id="172" TagName="contraction" Count="3" />
+  <row Id="173" TagName="syncopation" Count="1" />
+  <row Id="174" TagName="elision" Count="3" />
+  <row Id="176" TagName="inscription" Count="1" />
+  <row Id="177" TagName="demonstrative-pronoun" Count="2" />
+  <row Id="178" TagName="romance-languages" Count="1" />
+  <row Id="179" TagName="hyginus" Count="3" />
+  <row Id="180" TagName="augustinus" Count="2" />
+  <row Id="181" TagName="euphemism" Count="2" />
+  <row Id="182" TagName="phrase" Count="8" />
+  <row Id="184" TagName="pedagogy" Count="2" />
+  <row Id="185" TagName="2nd-language-acquisition" Count="1" />
+  <row Id="186" TagName="adverb" Count="4" />
+  <row Id="187" TagName="christianity" Count="3" />
+  <row Id="188" TagName="vowel-quantity" Count="2" />
+  <row Id="189" TagName="consonants" Count="6" />
+  <row Id="190" TagName="aspiration" Count="3" />
+  <row Id="191" TagName="roman-numerals" Count="1" />
+  <row Id="192" TagName="numbers" Count="1" />
+  <row Id="193" TagName="fabulae-faciles" Count="1" />
+  <row Id="195" TagName="singular" Count="1" />
+  <row Id="197" TagName="ending" Count="2" />
+  <row Id="199" TagName="clauses" Count="2" />
+  <row Id="200" TagName="clothing" Count="1" />
+  <row Id="201" TagName="object" Count="1" />
+  <row Id="202" TagName="spelling" Count="1" />
+  <row Id="203" TagName="resource-request" Count="6" />
+  <row Id="204" TagName="connotation" Count="1" />
+  <row Id="205" TagName="evidence" Count="1" />
+  <row Id="207" TagName="vocative" Count="4" />
+  <row Id="208" TagName="suffixes" Count="2" />
+  <row Id="209" TagName="mute-stem" Count="1" />
+  <row Id="210" TagName="declinatio-tertia" Count="2" />
+  <row Id="211" TagName="academic-events" Count="1" />
+  <row Id="212" TagName="text-identification" Count="1" />
+  <row Id="213" TagName="agent" Count="2" />
+  <row Id="214" TagName="prefix" Count="1" />
+  <row Id="215" TagName="irregular-verbs" Count="1" ExcerptPostId="855" WikiPostId="854" />
+  <row Id="216" TagName="cicero" Count="3" />
+  <row Id="217" TagName="grammarians" Count="2" />
+  <row Id="218" TagName="dialect" Count="1" />
+  <row Id="219" TagName="singing" Count="1" />
+  <row Id="220" TagName="stress" Count="1" />
+  <row Id="221" TagName="noun" Count="1" />
+  <row Id="222" TagName="appositive" Count="1" />
+  <row Id="223" TagName="beda" Count="2" ExcerptPostId="974" WikiPostId="973" />
+  <row Id="224" TagName="declinatio-prima" Count="1" />
+  <row Id="225" TagName="reflexive" Count="1" />
+  <row Id="226" TagName="dativus" Count="1" />
+  <row Id="227" TagName="aquinas" Count="1" />
+  <row Id="228" TagName="superlatives" Count="2" />
+</tags>

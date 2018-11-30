@@ -1,0 +1,336 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tags>
+  <row Id="1" TagName="contributions" Count="122" />
+  <row Id="2" TagName="memberships" Count="19" />
+  <row Id="3" TagName="import" Count="128" />
+  <row Id="4" TagName="api" Count="180" ExcerptPostId="390" WikiPostId="389" />
+  <row Id="5" TagName="sql" Count="15" />
+  <row Id="7" TagName="email" Count="127" ExcerptPostId="2552" WikiPostId="2551" />
+  <row Id="9" TagName="joomla" Count="166" ExcerptPostId="134" WikiPostId="133" />
+  <row Id="10" TagName="civievent" Count="397" ExcerptPostId="128" WikiPostId="127" />
+  <row Id="12" TagName="forms" Count="44" />
+  <row Id="13" TagName="multisite" Count="19" />
+  <row Id="14" TagName="civimail" Count="358" ExcerptPostId="2232" WikiPostId="2231" />
+  <row Id="15" TagName="lts" Count="10" />
+  <row Id="16" TagName="custom-search" Count="27" />
+  <row Id="17" TagName="menu" Count="24" />
+  <row Id="18" TagName="admin" Count="24" />
+  <row Id="19" TagName="profile" Count="180" />
+  <row Id="20" TagName="wordpress" Count="398" ExcerptPostId="130" WikiPostId="129" />
+  <row Id="21" TagName="contacts" Count="219" />
+  <row Id="22" TagName="user" Count="17" />
+  <row Id="23" TagName="registration" Count="40" />
+  <row Id="24" TagName="civicontribute" Count="357" ExcerptPostId="8386" WikiPostId="8385" />
+  <row Id="25" TagName="woocommerce" Count="4" />
+  <row Id="26" TagName="compatiblity" Count="6" ExcerptPostId="29" WikiPostId="28" />
+  <row Id="27" TagName="php" Count="45" />
+  <row Id="28" TagName="nginx" Count="5" />
+  <row Id="29" TagName="groups" Count="96" />
+  <row Id="30" TagName="smartgroups" Count="52" />
+  <row Id="31" TagName="cache" Count="11" />
+  <row Id="32" TagName="drupal" Count="346" ExcerptPostId="132" WikiPostId="131" />
+  <row Id="33" TagName="extension" Count="143" />
+  <row Id="34" TagName="mobile" Count="6" />
+  <row Id="35" TagName="custom-fields" Count="189" ExcerptPostId="8469" WikiPostId="8468" />
+  <row Id="36" TagName="best-practice" Count="28" />
+  <row Id="38" TagName="workflow" Count="7" />
+  <row Id="39" TagName="hooks" Count="63" ExcerptPostId="51" WikiPostId="50" />
+  <row Id="40" TagName="households" Count="15" />
+  <row Id="41" TagName="custom-templates" Count="21" />
+  <row Id="42" TagName="configuration" Count="34" />
+  <row Id="43" TagName="ajax" Count="25" />
+  <row Id="44" TagName="webform-civicrm" Count="148" ExcerptPostId="205" WikiPostId="204" />
+  <row Id="45" TagName="civireport" Count="158" ExcerptPostId="8388" WikiPostId="8387" />
+  <row Id="46" TagName="reporting" Count="7" />
+  <row Id="47" TagName="search" Count="101" />
+  <row Id="48" TagName="dashboard" Count="49" />
+  <row Id="49" TagName="civicrm-home" Count="26" />
+  <row Id="50" TagName="ux" Count="2" />
+  <row Id="51" TagName="default-settings" Count="7" />
+  <row Id="52" TagName="search-results" Count="41" />
+  <row Id="53" TagName="urls" Count="15" />
+  <row Id="54" TagName="cividiscount" Count="36" ExcerptPostId="3129" WikiPostId="3128" />
+  <row Id="55" TagName="developer" Count="70" />
+  <row Id="56" TagName="security" Count="28" />
+  <row Id="57" TagName="acl" Count="50" ExcerptPostId="7128" WikiPostId="7127" />
+  <row Id="58" TagName="cron-job" Count="66" />
+  <row Id="59" TagName="custom-data" Count="5" />
+  <row Id="61" TagName="contact-view" Count="13" />
+  <row Id="62" TagName="smarty" Count="29" />
+  <row Id="63" TagName="social-media" Count="8" />
+  <row Id="64" TagName="debugging" Count="20" />
+  <row Id="65" TagName="templates" Count="30" />
+  <row Id="66" TagName="4.5.6" Count="3" />
+  <row Id="67" TagName="pdf" Count="31" />
+  <row Id="68" TagName="html" Count="5" />
+  <row Id="69" TagName="relationships" Count="79" ExcerptPostId="2465" WikiPostId="2464" />
+  <row Id="70" TagName="civimember" Count="331" ExcerptPostId="2234" WikiPostId="2233" />
+  <row Id="74" TagName="permissions" Count="85" />
+  <row Id="75" TagName="integration" Count="14" />
+  <row Id="76" TagName="redirect" Count="10" />
+  <row Id="77" TagName="civicase" Count="132" ExcerptPostId="9829" WikiPostId="9828" />
+  <row Id="78" TagName="payment-processor" Count="97" />
+  <row Id="79" TagName="duplicate-contacts" Count="25" />
+  <row Id="80" TagName="global-menu" Count="3" />
+  <row Id="81" TagName="cms-integration" Count="14" />
+  <row Id="84" TagName="scheduling" Count="14" />
+  <row Id="86" TagName="logs" Count="22" />
+  <row Id="88" TagName="roles" Count="20" />
+  <row Id="89" TagName="4.5" Count="9" />
+  <row Id="90" TagName="location" Count="3" />
+  <row Id="92" TagName="price-sets" Count="33" />
+  <row Id="93" TagName="addresses" Count="28" />
+  <row Id="94" TagName="contact-reference" Count="6" />
+  <row Id="95" TagName="activities" Count="118" ExcerptPostId="2350" WikiPostId="2349" />
+  <row Id="96" TagName="rest" Count="17" />
+  <row Id="97" TagName="tokens" Count="54" />
+  <row Id="100" TagName="pcp" Count="21" />
+  <row Id="101" TagName="personal-campaign-pages" Count="19" />
+  <row Id="102" TagName="backdrop" Count="2" ExcerptPostId="2452" WikiPostId="2451" />
+  <row Id="103" TagName="tags" Count="21" />
+  <row Id="104" TagName="user-account" Count="30" />
+  <row Id="105" TagName="chaining" Count="7" />
+  <row Id="106" TagName="upgrade" Count="153" ExcerptPostId="7126" WikiPostId="7125" />
+  <row Id="107" TagName="civicrm-entity" Count="26" />
+  <row Id="108" TagName="entity-reference" Count="3" />
+  <row Id="109" TagName="usability" Count="5" />
+  <row Id="110" TagName="ui" Count="11" />
+  <row Id="111" TagName="database" Count="96" />
+  <row Id="112" TagName="update" Count="17" />
+  <row Id="114" TagName="4.6.0" Count="8" />
+  <row Id="115" TagName="architecture" Count="3" />
+  <row Id="116" TagName="facebook" Count="4" />
+  <row Id="118" TagName="contribution-page" Count="90" />
+  <row Id="120" TagName="drupal-views" Count="88" ExcerptPostId="2203" WikiPostId="2202" />
+  <row Id="121" TagName="contact-image" Count="5" />
+  <row Id="122" TagName="receipts" Count="34" />
+  <row Id="123" TagName="ckeditor" Count="19" />
+  <row Id="124" TagName="wysiwyg" Count="14" />
+  <row Id="125" TagName="events" Count="5" />
+  <row Id="126" TagName="waitlist" Count="2" />
+  <row Id="127" TagName="localisation" Count="35" ExcerptPostId="4363" WikiPostId="4362" />
+  <row Id="128" TagName="drupal-rules" Count="11" />
+  <row Id="129" TagName="geocoding" Count="12" />
+  <row Id="130" TagName="financial-types" Count="12" />
+  <row Id="131" TagName="sms" Count="20" />
+  <row Id="132" TagName="authorize.net" Count="23" />
+  <row Id="133" TagName="civicrm-buildkit" Count="21" />
+  <row Id="134" TagName="civihr" Count="7" />
+  <row Id="135" TagName="drupal-7" Count="3" />
+  <row Id="136" TagName="civisurvey" Count="5" />
+  <row Id="137" TagName="civipetiton" Count="5" />
+  <row Id="138" TagName="i18n" Count="11" ExcerptPostId="4365" WikiPostId="4364" />
+  <row Id="140" TagName="backups" Count="9" />
+  <row Id="141" TagName="civivolunteer" Count="34" />
+  <row Id="142" TagName="pledges" Count="23" />
+  <row Id="143" TagName="mamp" Count="5" ExcerptPostId="11368" WikiPostId="11367" />
+  <row Id="144" TagName="4.6.2" Count="19" />
+  <row Id="145" TagName="ubercart" Count="5" />
+  <row Id="146" TagName="paypal" Count="59" />
+  <row Id="147" TagName="mysql" Count="45" />
+  <row Id="150" TagName="recurring-payments" Count="27" />
+  <row Id="151" TagName="message-templates" Count="41" />
+  <row Id="152" TagName="system-workflow-messages" Count="10" />
+  <row Id="153" TagName="header-footer" Count="3" />
+  <row Id="154" TagName="premiums" Count="4" />
+  <row Id="156" TagName="accounting" Count="17" />
+  <row Id="158" TagName="date-preferences" Count="12" />
+  <row Id="159" TagName="scheduled-reminders" Count="46" />
+  <row Id="163" TagName="civisepa" Count="2" ExcerptPostId="2236" WikiPostId="2235" />
+  <row Id="164" TagName="recurring-contributions" Count="26" />
+  <row Id="165" TagName="links" Count="11" />
+  <row Id="166" TagName="civix" Count="6" />
+  <row Id="168" TagName="tutorials" Count="3" ExcerptPostId="2599" WikiPostId="2598" />
+  <row Id="169" TagName="error-page" Count="16" />
+  <row Id="170" TagName="theme" Count="15" />
+  <row Id="171" TagName="address-labels" Count="17" />
+  <row Id="172" TagName="settings" Count="23" />
+  <row Id="173" TagName="civipledge" Count="10" />
+  <row Id="174" TagName="images" Count="8" />
+  <row Id="175" TagName="documentation" Count="13" />
+  <row Id="176" TagName="webserver" Count="13" />
+  <row Id="177" TagName="commerce" Count="4" />
+  <row Id="178" TagName="demo-site" Count="6" />
+  <row Id="179" TagName="gsoc" Count="20" ExcerptPostId="3613" WikiPostId="3612" />
+  <row Id="183" TagName="issues" Count="44" />
+  <row Id="185" TagName="civisualize" Count="10" />
+  <row Id="186" TagName="honoree" Count="6" />
+  <row Id="187" TagName="taxes" Count="9" />
+  <row Id="188" TagName="sysadmin" Count="10" />
+  <row Id="189" TagName="hosting" Count="15" />
+  <row Id="191" TagName="drush" Count="12" />
+  <row Id="193" TagName="vanco" Count="3" />
+  <row Id="194" TagName="css" Count="15" />
+  <row Id="196" TagName="smtp" Count="9" />
+  <row Id="197" TagName="mandrill" Count="8" />
+  <row Id="198" TagName="4.6.3" Count="4" />
+  <row Id="199" TagName="contact-types" Count="9" />
+  <row Id="200" TagName="export" Count="49" />
+  <row Id="202" TagName="location-type" Count="7" />
+  <row Id="206" TagName="deduplication" Count="24" />
+  <row Id="208" TagName="search-builder" Count="16" />
+  <row Id="209" TagName="mailserver" Count="3" />
+  <row Id="210" TagName="civicrm.settings.php" Count="12" />
+  <row Id="212" TagName="validation" Count="4" />
+  <row Id="213" TagName="phone" Count="5" />
+  <row Id="215" TagName="stripe" Count="15" />
+  <row Id="216" TagName="abtesting" Count="7" />
+  <row Id="217" TagName="envelope" Count="2" />
+  <row Id="218" TagName="installation" Count="82" ExcerptPostId="3332" WikiPostId="3331" />
+  <row Id="219" TagName="4.6.4" Count="3" />
+  <row Id="221" TagName="javascript" Count="26" />
+  <row Id="222" TagName="dashlet" Count="17" />
+  <row Id="223" TagName="civicampaign" Count="22" />
+  <row Id="224" TagName="bounce" Count="9" />
+  <row Id="225" TagName="authentication" Count="3" />
+  <row Id="226" TagName="session" Count="6" />
+  <row Id="227" TagName="checksum" Count="10" />
+  <row Id="228" TagName="civibooking" Count="2" />
+  <row Id="229" TagName="migration" Count="17" ExcerptPostId="4836" WikiPostId="4835" />
+  <row Id="230" TagName="omnipay" Count="2" />
+  <row Id="232" TagName="civisms" Count="11" />
+  <row Id="235" TagName="resource-urls" Count="5" />
+  <row Id="236" TagName="activity" Count="17" />
+  <row Id="238" TagName="tinymce" Count="3" />
+  <row Id="239" TagName="quicksearch" Count="6" />
+  <row Id="241" TagName="performance" Count="9" />
+  <row Id="244" TagName="civigrant" Count="6" />
+  <row Id="245" TagName="data-model" Count="4" />
+  <row Id="246" TagName="drupal-8" Count="10" />
+  <row Id="248" TagName="cookies" Count="3" />
+  <row Id="249" TagName="pantheon" Count="5" />
+  <row Id="250" TagName="deployment" Count="3" />
+  <row Id="251" TagName="binary-logging" Count="2" />
+  <row Id="252" TagName="ipn" Count="15" />
+  <row Id="254" TagName="mailing" Count="32" />
+  <row Id="255" TagName="soap" Count="1" ExcerptPostId="4987" WikiPostId="4986" />
+  <row Id="256" TagName="drupal-6" Count="9" />
+  <row Id="258" TagName="digitalocean" Count="1" ExcerptPostId="7048" WikiPostId="7047" />
+  <row Id="260" TagName="select2" Count="2" />
+  <row Id="261" TagName="4.6.6" Count="3" />
+  <row Id="262" TagName="calendar" Count="7" />
+  <row Id="264" TagName="dates" Count="14" />
+  <row Id="265" TagName="civirules" Count="20" />
+  <row Id="266" TagName="4.6" Count="27" />
+  <row Id="267" TagName="4.6.8" Count="12" />
+  <row Id="268" TagName="summaryfields" Count="5" />
+  <row Id="269" TagName="editor" Count="2" />
+  <row Id="270" TagName="cron" Count="28" />
+  <row Id="271" TagName="custom-reports" Count="18" />
+  <row Id="275" TagName="civicrm.org" Count="3" />
+  <row Id="276" TagName="multi-record" Count="9" />
+  <row Id="279" TagName="wsod" Count="5" />
+  <row Id="280" TagName="error" Count="96" />
+  <row Id="281" TagName="invoice" Count="19" />
+  <row Id="283" TagName="modules" Count="4" />
+  <row Id="284" TagName="attachments" Count="8" />
+  <row Id="288" TagName="timestamp" Count="2" />
+  <row Id="289" TagName="greetings" Count="2" />
+  <row Id="290" TagName="sort-order" Count="4" />
+  <row Id="291" TagName="cli" Count="8" />
+  <row Id="292" TagName="simple-donate-form" Count="5" />
+  <row Id="295" TagName="4.7" Count="77" />
+  <row Id="297" TagName="ssl" Count="6" />
+  <row Id="300" TagName="logging" Count="6" />
+  <row Id="301" TagName="untagged" Count="5" />
+  <row Id="302" TagName="timezone" Count="16" ExcerptPostId="8487" WikiPostId="8486" />
+  <row Id="304" TagName="bootstrap" Count="2" />
+  <row Id="307" TagName="kcfinder" Count="5" />
+  <row Id="308" TagName="pending" Count="4" />
+  <row Id="309" TagName="security-advisory" Count="2" />
+  <row Id="311" TagName="evaluating-civicrm" Count="38" ExcerptPostId="7719" WikiPostId="7718" />
+  <row Id="312" TagName="gift-aid-extension" Count="3" />
+  <row Id="313" TagName="primary" Count="2" />
+  <row Id="314" TagName="assignee" Count="1" />
+  <row Id="315" TagName="reports" Count="22" />
+  <row Id="316" TagName="website" Count="1" />
+  <row Id="317" TagName="angular" Count="6" />
+  <row Id="318" TagName="4.6.10" Count="13" />
+  <row Id="319" TagName="fields" Count="12" />
+  <row Id="320" TagName="county" Count="6" ExcerptPostId="8004" WikiPostId="8003" />
+  <row Id="321" TagName="field-mapping" Count="3" />
+  <row Id="322" TagName="ide" Count="1" />
+  <row Id="323" TagName="financial-accounts" Count="9" />
+  <row Id="324" TagName="tracked-links" Count="5" />
+  <row Id="325" TagName="batches" Count="9" />
+  <row Id="326" TagName="translation" Count="4" />
+  <row Id="327" TagName="postcode" Count="4" />
+  <row Id="328" TagName="soft-credit" Count="4" />
+  <row Id="329" TagName="confirmation" Count="5" />
+  <row Id="330" TagName="newsletter" Count="6" />
+  <row Id="331" TagName="signup" Count="1" />
+  <row Id="332" TagName="billingblock" Count="3" />
+  <row Id="333" TagName="xml" Count="1" />
+  <row Id="334" TagName="callback-page" Count="1" />
+  <row Id="335" TagName="actions" Count="1" />
+  <row Id="336" TagName="user-dashboard" Count="8" />
+  <row Id="337" TagName="merging" Count="3" />
+  <row Id="338" TagName="braintree" Count="1" />
+  <row Id="339" TagName="delete" Count="2" />
+  <row Id="340" TagName="scheduled-job" Count="11" />
+  <row Id="341" TagName="entityref" Count="1" />
+  <row Id="342" TagName="4.6.11" Count="3" />
+  <row Id="343" TagName="drupal-commerce" Count="1" />
+  <row Id="344" TagName="backbone" Count="3" />
+  <row Id="345" TagName="quickform" Count="5" />
+  <row Id="346" TagName="mailchimp" Count="3" />
+  <row Id="347" TagName="start-up" Count="1" />
+  <row Id="348" TagName="failure" Count="3" />
+  <row Id="350" TagName="core" Count="9" />
+  <row Id="351" TagName="activites" Count="1" />
+  <row Id="352" TagName="jenkins" Count="1" />
+  <row Id="353" TagName="testing" Count="6" />
+  <row Id="354" TagName="support" Count="1" />
+  <row Id="355" TagName="pci-compliance" Count="2" />
+  <row Id="356" TagName="transifex" Count="2" />
+  <row Id="357" TagName="ck" Count="1" />
+  <row Id="358" TagName="google" Count="3" />
+  <row Id="359" TagName="varnish" Count="1" />
+  <row Id="360" TagName="caching" Count="2" />
+  <row Id="361" TagName="click-through" Count="1" />
+  <row Id="362" TagName="spam" Count="2" />
+  <row Id="363" TagName="merge" Count="5" />
+  <row Id="364" TagName="4.6.14" Count="4" />
+  <row Id="365" TagName="4.6.12" Count="3" />
+  <row Id="366" TagName="administer" Count="3" />
+  <row Id="367" TagName="prefix" Count="2" />
+  <row Id="368" TagName="crm-utils-array" Count="1" />
+  <row Id="369" TagName="training" Count="1" />
+  <row Id="370" TagName="gitbook" Count="1" />
+  <row Id="371" TagName="option" Count="2" />
+  <row Id="372" TagName="design" Count="1" />
+  <row Id="373" TagName="paylater" Count="1" />
+  <row Id="374" TagName="duplicates" Count="1" />
+  <row Id="375" TagName="underscore" Count="1" />
+  <row Id="376" TagName="sub-types" Count="2" />
+  <row Id="377" TagName="openssl" Count="1" />
+  <row Id="378" TagName="4.7.1" Count="2" />
+  <row Id="379" TagName="dedupe" Count="2" />
+  <row Id="380" TagName="sparkpost" Count="3" />
+  <row Id="381" TagName="4.6.15" Count="1" />
+  <row Id="382" TagName="release" Count="1" />
+  <row Id="383" TagName="recaptcha" Count="4" />
+  <row Id="385" TagName="amazon" Count="1" />
+  <row Id="386" TagName="install" Count="1" />
+  <row Id="387" TagName="display" Count="1" />
+  <row Id="388" TagName="moneris" Count="1" />
+  <row Id="389" TagName="currency" Count="6" ExcerptPostId="11551" WikiPostId="11550" />
+  <row Id="391" TagName="preferences" Count="1" />
+  <row Id="392" TagName="offset" Count="1" />
+  <row Id="393" TagName="civixero" Count="1" />
+  <row Id="394" TagName="iats" Count="3" />
+  <row Id="395" TagName="4.7.6" Count="3" />
+  <row Id="396" TagName="user-experience" Count="2" />
+  <row Id="397" TagName="user-interface" Count="3" />
+  <row Id="398" TagName="hipaa" Count="1" />
+  <row Id="399" TagName="privacy" Count="1" />
+  <row Id="400" TagName="jquery" Count="2" />
+  <row Id="401" TagName="upload" Count="1" />
+  <row Id="402" TagName="files" Count="1" />
+  <row Id="403" TagName="unsubscribe" Count="2" />
+  <row Id="404" TagName="google-groups" Count="1" />
+  <row Id="405" TagName="proximity" Count="1" />
+  <row Id="406" TagName="subscribe" Count="1" />
+  <row Id="407" TagName="gocardless" Count="1" />
+  <row Id="408" TagName="4.4" Count="1" />
+</tags>
