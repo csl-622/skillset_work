@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tags>
+  <row Id="1" TagName="processor-architecture" Count="5" ExcerptPostId="1065" WikiPostId="1064" />
+  <row Id="2" TagName="performance" Count="12" ExcerptPostId="310" WikiPostId="309" />
+  <row Id="3" TagName="smartphones" Count="28" ExcerptPostId="276" WikiPostId="275" />
+  <row Id="5" TagName="usb" Count="65" ExcerptPostId="328" WikiPostId="327" />
+  <row Id="6" TagName="power" Count="5" ExcerptPostId="804" WikiPostId="803" />
+  <row Id="7" TagName="power-control" Count="5" ExcerptPostId="868" WikiPostId="867" />
+  <row Id="8" TagName="data-storage" Count="20" ExcerptPostId="779" WikiPostId="778" />
+  <row Id="10" TagName="ssd" Count="27" ExcerptPostId="228" WikiPostId="227" />
+  <row Id="12" TagName="keyboards" Count="27" ExcerptPostId="534" WikiPostId="533" />
+  <row Id="13" TagName="mice" Count="24" ExcerptPostId="777" WikiPostId="776" />
+  <row Id="16" TagName="nas" Count="11" ExcerptPostId="278" WikiPostId="277" />
+  <row Id="17" TagName="hard-disk" Count="25" ExcerptPostId="783" WikiPostId="782" />
+  <row Id="19" TagName="monitors" Count="37" ExcerptPostId="775" WikiPostId="774" />
+  <row Id="20" TagName="server" Count="27" ExcerptPostId="800" WikiPostId="799" />
+  <row Id="21" TagName="floss" Count="3" ExcerptPostId="316" WikiPostId="315" />
+  <row Id="22" TagName="video-camera" Count="15" ExcerptPostId="798" WikiPostId="797" />
+  <row Id="23" TagName="ip-camera" Count="6" ExcerptPostId="994" WikiPostId="993" />
+  <row Id="24" TagName="mixing-console" Count="2" ExcerptPostId="1067" WikiPostId="1066" />
+  <row Id="25" TagName="audio" Count="30" ExcerptPostId="786" WikiPostId="785" />
+  <row Id="27" TagName="amplifiers" Count="3" ExcerptPostId="1073" WikiPostId="1072" />
+  <row Id="28" TagName="gps" Count="9" ExcerptPostId="34" WikiPostId="33" />
+  <row Id="29" TagName="passive-tracker" Count="2" ExcerptPostId="877" WikiPostId="876" />
+  <row Id="30" TagName="hdmi" Count="24" ExcerptPostId="788" WikiPostId="787" />
+  <row Id="31" TagName="remote-control" Count="9" ExcerptPostId="792" WikiPostId="791" />
+  <row Id="32" TagName="television" Count="14" ExcerptPostId="992" WikiPostId="991" />
+  <row Id="36" TagName="bluetooth" Count="20" ExcerptPostId="641" WikiPostId="640" />
+  <row Id="37" TagName="headphones" Count="10" ExcerptPostId="816" WikiPostId="815" />
+  <row Id="38" TagName="gaming" Count="71" ExcerptPostId="314" WikiPostId="313" />
+  <row Id="39" TagName="pc" Count="37" ExcerptPostId="226" WikiPostId="225" />
+  <row Id="41" TagName="graphics-tablet" Count="3" ExcerptPostId="151" WikiPostId="150" />
+  <row Id="45" TagName="android" Count="32" ExcerptPostId="304" WikiPostId="303" />
+  <row Id="47" TagName="displays" Count="10" ExcerptPostId="802" WikiPostId="801" />
+  <row Id="48" TagName="signal-processing" Count="3" ExcerptPostId="2235" WikiPostId="2234" />
+  <row Id="52" TagName="virtual-machines" Count="7" ExcerptPostId="1083" WikiPostId="1082" />
+  <row Id="53" TagName="waterproof" Count="2" ExcerptPostId="62" WikiPostId="61" />
+  <row Id="54" TagName="web-server" Count="7" ExcerptPostId="922" WikiPostId="921" />
+  <row Id="55" TagName="tablet" Count="21" ExcerptPostId="639" WikiPostId="638" />
+  <row Id="57" TagName="logitech" Count="4" ExcerptPostId="913" WikiPostId="912" />
+  <row Id="59" TagName="automation" Count="6" ExcerptPostId="1069" WikiPostId="1068" />
+  <row Id="60" TagName="laptop" Count="103" ExcerptPostId="532" WikiPostId="531" />
+  <row Id="61" TagName="pcie" Count="9" ExcerptPostId="408" WikiPostId="407" />
+  <row Id="65" TagName="cooling" Count="12" ExcerptPostId="1077" WikiPostId="1076" />
+  <row Id="66" TagName="networking" Count="26" ExcerptPostId="808" WikiPostId="807" />
+  <row Id="68" TagName="pots" Count="1" ExcerptPostId="990" WikiPostId="989" />
+  <row Id="72" TagName="ubuntu" Count="3" ExcerptPostId="414" WikiPostId="413" />
+  <row Id="73" TagName="linux" Count="37" ExcerptPostId="790" WikiPostId="789" />
+  <row Id="74" TagName="compatibility" Count="8" ExcerptPostId="445" WikiPostId="444" />
+  <row Id="75" TagName="acoustic-holography" Count="1" ExcerptPostId="370" WikiPostId="369" />
+  <row Id="76" TagName="microphones" Count="10" ExcerptPostId="635" WikiPostId="634" />
+  <row Id="77" TagName="scanner" Count="8" ExcerptPostId="814" WikiPostId="813" />
+  <row Id="78" TagName="3d-scanner" Count="2" ExcerptPostId="911" WikiPostId="910" />
+  <row Id="79" TagName="poe" Count="1" ExcerptPostId="443" WikiPostId="442" />
+  <row Id="80" TagName="wifi" Count="35" ExcerptPostId="637" WikiPostId="636" />
+  <row Id="82" TagName="ups" Count="2" ExcerptPostId="322" WikiPostId="321" />
+  <row Id="88" TagName="encryption" Count="6" ExcerptPostId="821" WikiPostId="820" />
+  <row Id="90" TagName="backup" Count="2" ExcerptPostId="879" WikiPostId="878" />
+  <row Id="91" TagName="smps" Count="2" ExcerptPostId="168" WikiPostId="167" />
+  <row Id="92" TagName="power-supply" Count="25" ExcerptPostId="866" WikiPostId="865" />
+  <row Id="93" TagName="home-security" Count="5" ExcerptPostId="1002" WikiPostId="1001" />
+  <row Id="94" TagName="firewall" Count="3" />
+  <row Id="95" TagName="router" Count="18" ExcerptPostId="536" WikiPostId="535" />
+  <row Id="99" TagName="earphones" Count="3" />
+  <row Id="100" TagName="audio-quality" Count="4" ExcerptPostId="1012" WikiPostId="1011" />
+  <row Id="101" TagName="audio-recording" Count="6" ExcerptPostId="1014" WikiPostId="1013" />
+  <row Id="102" TagName="drone" Count="3" />
+  <row Id="103" TagName="microsd" Count="6" ExcerptPostId="996" WikiPostId="995" />
+  <row Id="105" TagName="raid-controller" Count="7" ExcerptPostId="835" WikiPostId="834" />
+  <row Id="107" TagName="motherboard" Count="42" ExcerptPostId="810" WikiPostId="809" />
+  <row Id="108" TagName="video" Count="20" ExcerptPostId="796" WikiPostId="795" />
+  <row Id="109" TagName="sata" Count="9" ExcerptPostId="320" WikiPostId="319" />
+  <row Id="110" TagName="scsi" Count="1" ExcerptPostId="377" WikiPostId="376" />
+  <row Id="111" TagName="sas" Count="2" />
+  <row Id="112" TagName="sound-system" Count="3" />
+  <row Id="113" TagName="speakers" Count="7" ExcerptPostId="2231" WikiPostId="2230" />
+  <row Id="114" TagName="osx" Count="6" ExcerptPostId="312" WikiPostId="311" />
+  <row Id="115" TagName="docking-stations" Count="6" ExcerptPostId="1008" WikiPostId="1007" />
+  <row Id="116" TagName="thunderbolt" Count="7" ExcerptPostId="831" WikiPostId="830" />
+  <row Id="117" TagName="ethernet" Count="12" ExcerptPostId="928" WikiPostId="927" />
+  <row Id="118" TagName="smartcards" Count="2" ExcerptPostId="192" WikiPostId="191" />
+  <row Id="119" TagName="laser" Count="3" />
+  <row Id="120" TagName="switch" Count="6" ExcerptPostId="924" WikiPostId="923" />
+  <row Id="121" TagName="wlan" Count="4" ExcerptPostId="372" WikiPostId="371" />
+  <row Id="122" TagName="arduino" Count="5" ExcerptPostId="199" WikiPostId="198" />
+  <row Id="123" TagName="case" Count="15" ExcerptPostId="818" WikiPostId="817" />
+  <row Id="126" TagName="wireless" Count="24" ExcerptPostId="794" WikiPostId="793" />
+  <row Id="127" TagName="network-adapter" Count="11" ExcerptPostId="926" WikiPostId="925" />
+  <row Id="129" TagName="durability" Count="5" ExcerptPostId="410" WikiPostId="409" />
+  <row Id="131" TagName="portable" Count="5" ExcerptPostId="915" WikiPostId="914" />
+  <row Id="132" TagName="micro-pc" Count="5" ExcerptPostId="467" WikiPostId="466" />
+  <row Id="134" TagName="windows" Count="16" ExcerptPostId="540" WikiPostId="539" />
+  <row Id="136" TagName="mini-pc" Count="8" ExcerptPostId="318" WikiPostId="317" />
+  <row Id="140" TagName="brain-computer-interface" Count="2" ExcerptPostId="368" WikiPostId="367" />
+  <row Id="141" TagName="eye-tracker" Count="1" ExcerptPostId="412" WikiPostId="411" />
+  <row Id="142" TagName="projector" Count="8" ExcerptPostId="1061" WikiPostId="1060" />
+  <row Id="143" TagName="tracking-devices" Count="2" />
+  <row Id="147" TagName="ergonomics" Count="4" ExcerptPostId="1004" WikiPostId="1003" />
+  <row Id="148" TagName="mobile-phone" Count="10" ExcerptPostId="718" WikiPostId="717" />
+  <row Id="149" TagName="microcontroller" Count="4" />
+  <row Id="150" TagName="memory" Count="37" ExcerptPostId="812" WikiPostId="811" />
+  <row Id="151" TagName="point-of-sale" Count="4" ExcerptPostId="306" WikiPostId="305" />
+  <row Id="153" TagName="smart-device" Count="3" ExcerptPostId="966" WikiPostId="965" />
+  <row Id="158" TagName="web-development" Count="5" ExcerptPostId="2223" WikiPostId="2222" />
+  <row Id="160" TagName="thin-client" Count="1" ExcerptPostId="909" WikiPostId="908" />
+  <row Id="161" TagName="led" Count="4" ExcerptPostId="538" WikiPostId="537" />
+  <row Id="166" TagName="memory-card" Count="4" ExcerptPostId="998" WikiPostId="997" />
+  <row Id="167" TagName="sdxc" Count="1" ExcerptPostId="1095" WikiPostId="1094" />
+  <row Id="168" TagName="graphics-cards" Count="70" ExcerptPostId="781" WikiPostId="780" />
+  <row Id="169" TagName="headset" Count="8" ExcerptPostId="542" WikiPostId="541" />
+  <row Id="173" TagName="heat-sink" Count="4" ExcerptPostId="833" WikiPostId="832" />
+  <row Id="174" TagName="webcam" Count="6" ExcerptPostId="1016" WikiPostId="1015" />
+  <row Id="176" TagName="ventilation" Count="2" ExcerptPostId="441" WikiPostId="440" />
+  <row Id="177" TagName="hub" Count="8" ExcerptPostId="2225" WikiPostId="2224" />
+  <row Id="179" TagName="flash-drive" Count="4" ExcerptPostId="2237" WikiPostId="2236" />
+  <row Id="180" TagName="fan-controller" Count="3" />
+  <row Id="181" TagName="wearable-technology" Count="5" ExcerptPostId="374" WikiPostId="373" />
+  <row Id="183" TagName="kvm" Count="10" ExcerptPostId="439" WikiPostId="438" />
+  <row Id="184" TagName="e-reader" Count="6" ExcerptPostId="551" WikiPostId="550" />
+  <row Id="187" TagName="enclosure" Count="3" />
+  <row Id="188" TagName="rendering" Count="4" ExcerptPostId="1000" WikiPostId="999" />
+  <row Id="193" TagName="multiple-monitors" Count="9" ExcerptPostId="806" WikiPostId="805" />
+  <row Id="194" TagName="raspberry-pi" Count="15" ExcerptPostId="406" WikiPostId="405" />
+  <row Id="197" TagName="development" Count="15" ExcerptPostId="1079" WikiPostId="1078" />
+  <row Id="199" TagName="dvd-player" Count="3" ExcerptPostId="1512" WikiPostId="1511" />
+  <row Id="203" TagName="access-point" Count="5" ExcerptPostId="1075" WikiPostId="1074" />
+  <row Id="207" TagName="blu-ray" Count="3" ExcerptPostId="1010" WikiPostId="1009" />
+  <row Id="209" TagName="power-bank" Count="3" ExcerptPostId="882" WikiPostId="881" />
+  <row Id="210" TagName="raid" Count="6" ExcerptPostId="1018" WikiPostId="1017" />
+  <row Id="211" TagName="display-port" Count="8" ExcerptPostId="1510" WikiPostId="1509" />
+  <row Id="213" TagName="dvi" Count="3" ExcerptPostId="1081" WikiPostId="1080" />
+  <row Id="214" TagName="vga" Count="4" ExcerptPostId="2233" WikiPostId="2232" />
+  <row Id="215" TagName="set-top-box" Count="2" />
+  <row Id="217" TagName="hdtv" Count="5" />
+  <row Id="219" TagName="api" Count="2" />
+  <row Id="222" TagName="security" Count="7" ExcerptPostId="960" WikiPostId="959" />
+  <row Id="223" TagName="internet-of-things" Count="4" ExcerptPostId="2227" WikiPostId="2226" />
+  <row Id="225" TagName="sound-cards" Count="6" ExcerptPostId="1805" WikiPostId="1804" />
+  <row Id="226" TagName="scientific-instruments" Count="2" ExcerptPostId="1023" WikiPostId="1022" />
+  <row Id="227" TagName="audio-adapters" Count="3" ExcerptPostId="1071" WikiPostId="1070" />
+  <row Id="228" TagName="processor" Count="52" ExcerptPostId="825" WikiPostId="824" />
+  <row Id="229" TagName="mp3-player" Count="4" ExcerptPostId="829" WikiPostId="828" />
+  <row Id="230" TagName="3d-printer" Count="1" ExcerptPostId="530" WikiPostId="529" />
+  <row Id="233" TagName="mobile-workstation" Count="5" />
+  <row Id="234" TagName="assistive-technology" Count="4" ExcerptPostId="567" WikiPostId="566" />
+  <row Id="236" TagName="monitor-stand" Count="2" />
+  <row Id="237" TagName="warranty" Count="1" ExcerptPostId="677" WikiPostId="676" />
+  <row Id="239" TagName="printer" Count="11" ExcerptPostId="920" WikiPostId="919" />
+  <row Id="240" TagName="quiet-computing" Count="6" ExcerptPostId="681" WikiPostId="680" />
+  <row Id="241" TagName="game-development" Count="4" ExcerptPostId="2229" WikiPostId="2228" />
+  <row Id="242" TagName="fanless" Count="2" ExcerptPostId="1354" WikiPostId="1353" />
+  <row Id="243" TagName="silent" Count="1" ExcerptPostId="679" WikiPostId="678" />
+  <row Id="244" TagName="desktop" Count="41" ExcerptPostId="674" WikiPostId="673" />
+  <row Id="245" TagName="midi" Count="4" ExcerptPostId="1063" WikiPostId="1062" />
+  <row Id="246" TagName="mouse-pad" Count="1" ExcerptPostId="1360" WikiPostId="1359" />
+  <row Id="248" TagName="video-capture" Count="5" ExcerptPostId="1508" WikiPostId="1507" />
+  <row Id="252" TagName="sd-card" Count="3" />
+  <row Id="253" TagName="legacy" Count="3" ExcerptPostId="773" WikiPostId="772" />
+  <row Id="255" TagName="drive-enclosure" Count="1" ExcerptPostId="827" WikiPostId="826" />
+  <row Id="257" TagName="vr-headset" Count="3" ExcerptPostId="838" WikiPostId="837" />
+  <row Id="259" TagName="vps" Count="3" ExcerptPostId="863" WikiPostId="862" />
+  <row Id="260" TagName="power-converter" Count="1" ExcerptPostId="871" WikiPostId="870" />
+  <row Id="261" TagName="all-in-one" Count="4" ExcerptPostId="889" WikiPostId="888" />
+  <row Id="263" TagName="embedded-systems" Count="15" ExcerptPostId="962" WikiPostId="961" />
+  <row Id="264" TagName="touchscreen" Count="3" ExcerptPostId="964" WikiPostId="963" />
+  <row Id="265" TagName="music" Count="7" ExcerptPostId="978" WikiPostId="977" />
+  <row Id="266" TagName="nuc" Count="3" ExcerptPostId="1021" WikiPostId="1020" />
+  <row Id="267" TagName="project-fi" Count="1" ExcerptPostId="1358" WikiPostId="1357" />
+  <row Id="268" TagName="4g" Count="2" ExcerptPostId="1356" WikiPostId="1355" />
+  <row Id="270" TagName="untagged" Count="1" ExcerptPostId="1803" WikiPostId="1802" />
+  <row Id="272" TagName="home-electronics" Count="2" ExcerptPostId="1428" WikiPostId="1427" />
+  <row Id="274" TagName="camera" Count="5" ExcerptPostId="1404" WikiPostId="1403" />
+  <row Id="275" TagName="alarm-clock" Count="1" />
+  <row Id="276" TagName="trackball" Count="3" ExcerptPostId="1619" WikiPostId="1618" />
+  <row Id="279" TagName="video-editing" Count="2" ExcerptPostId="1621" WikiPostId="1620" />
+  <row Id="281" TagName="cnc-controller" Count="1" ExcerptPostId="1591" WikiPostId="1590" />
+  <row Id="283" TagName="thin-mini-itx" Count="2" />
+  <row Id="285" TagName="asio" Count="1" ExcerptPostId="1642" WikiPostId="1641" />
+  <row Id="289" TagName="rs-232" Count="1" />
+  <row Id="290" TagName="splitters" Count="1" ExcerptPostId="2121" WikiPostId="2120" />
+  <row Id="291" TagName="energy-efficient" Count="2" ExcerptPostId="2276" WikiPostId="2275" />
+  <row Id="292" TagName="solar-power" Count="1" ExcerptPostId="2283" WikiPostId="2282" />
+  <row Id="293" TagName="video-adapters" Count="8" ExcerptPostId="2433" WikiPostId="2432" />
+  <row Id="294" TagName="e-ink" Count="1" ExcerptPostId="2431" WikiPostId="2430" />
+  <row Id="295" TagName="calculators" Count="1" ExcerptPostId="2525" WikiPostId="2524" />
+  <row Id="296" TagName="fingerprint-scanner" Count="1" ExcerptPostId="2527" WikiPostId="2526" />
+  <row Id="297" TagName="plc" Count="1" ExcerptPostId="2529" WikiPostId="2528" />
+  <row Id="299" TagName="floppy-drive" Count="1" ExcerptPostId="2686" WikiPostId="2685" />
+  <row Id="300" TagName="barcode-scanner" Count="1" ExcerptPostId="2761" WikiPostId="2760" />
+  <row Id="301" TagName="nfc" Count="1" ExcerptPostId="2757" WikiPostId="2756" />
+  <row Id="302" TagName="cloud" Count="1" />
+  <row Id="303" TagName="video-game-console" Count="1" ExcerptPostId="2755" WikiPostId="2754" />
+  <row Id="308" TagName="4k" Count="1" />
+  <row Id="309" TagName="cluster-computing" Count="1" ExcerptPostId="2759" WikiPostId="2758" />
+</tags>
