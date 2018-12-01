@@ -37,7 +37,7 @@ def Tmat_cal(path,filename):
 		print >> f, "\nKnowledge Genreated in Category Of Question's is more than in that of Answer's by a factor of: ",float(Kmat[0,0])/Kmat[1,0]
 	else:
 		print >> f, "\nKnowledge Genreated in Category Of Answer's is more than in that of Question's by a factor of: ",float(Kmat[1,0])/Kmat[0,0]
-	print >> f, "The Trigerring happening between Knowledge Categorie's: ",Tmat[0,0]
+	print >> f, "\nThe Trigerring happening between Knowledge Categorie's: ",Tmat[0,0]
 	if(Tmat[0,1]>Tmat[1,0]):
 		print >> f, "\nQuestion asker's Trigger Answer giver's more by a factor of: ",float(Tmat[0,1])/Tmat[1,0]
 	else:
