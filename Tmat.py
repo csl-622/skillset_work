@@ -44,11 +44,8 @@ def Tmat_cal(path,filename):
 	filename2='Tmat/'+filename+'_Tmat.pkl'
 	with open(filename2,'wb') as f:
 		pickle.dump(Tmat,f)
-
-	print "\n","------------",filename,"--------------------"
-	print Tmat1,"Before"
-	print Tmat,"After"
-		
+	print "---------------------",filename,"--------------------------"
+	print Tmat	
 def main():
 	path=os.getcwd()+'/'+folder_to_data_folder_path
 	arr = os.listdir(path)

@@ -36,3 +36,9 @@ Tmat.py:-
 1.) First run Nmat_Kmat.py to store Nmatrix and K matrix in pickle
 
 2.) Run Tmat.py which calculates the Triggering happening across User's of Different Category
+
+Generate_results.py:-
+
+1.) Run as python Generate_results.py 
+
+2.) Check the output in Final_Result folder
