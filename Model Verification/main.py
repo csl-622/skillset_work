@@ -206,7 +206,7 @@ def main():
         getNK(path + '/' + files, files, startTime + (frac[2] * (endTime - startTime)), frac[2])
     plt.plot(actual_n1_list, actual_n2_list, '.', color='b')
     plt.plot(expected_n1_list, expected_n2_list, '.', color='r')
-    plt.xlabel('n1')
+    plt.ylabel('n1')
     plt.xlabel('n2')
     plt.savefig("graph.png")
 
