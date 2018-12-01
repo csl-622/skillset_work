@@ -30,18 +30,18 @@ def Tmat_cal(path,filename):
 	#---------------------------- Nmat/Kmat/Tmat now loaded ------------------------
 	print >> f, "---------------------",filename,"-----------------------"
 	if Nmat[0,0]>Nmat[1,1]:
-		print >> f, "Question Asker's are more than Answer Giver's by factor of: ",float(Nmat[0,0])/Nmat[1,1]
+		print >> f, "Question Askers are more than Answer Givers by factor of: ",float(Nmat[0,0])/Nmat[1,1]
 	else:
-		print >> f, "Answer Giver's are more than Question Asker's by factor of: ",float(Nmat[1,1])/Nmat[0,0]
+		print >> f, "Answer Givers are more than Question Askers by factor of: ",float(Nmat[1,1])/Nmat[0,0]
 	if Kmat[0,0]>Kmat[1,0]:
-		print >> f, "\nKnowledge Genreated in Category Of Question's is more than in that of Answer's by a factor of: ",float(Kmat[0,0])/Kmat[1,0]
+		print >> f, "\nKnowledge Genreated in Category Of Questions is more than in that of Answers by a factor of: ",float(Kmat[0,0])/Kmat[1,0]
 	else:
-		print >> f, "\nKnowledge Genreated in Category Of Answer's is more than in that of Question's by a factor of: ",float(Kmat[1,0])/Kmat[0,0]
-	print >> f, "\nThe Trigerring happening between Knowledge Categorie's: ",Tmat[0,0]
+		print >> f, "\nKnowledge Genreated in Category Of Answers is more than in that of Questions by a factor of: ",float(Kmat[1,0])/Kmat[0,0]
+	print >> f, "\nThe Trigerring happening between Knowledge Categories: ",Tmat[0,0]
 	if(Tmat[0,1]>Tmat[1,0]):
-		print >> f, "\nQuestion asker's Trigger Answer giver's more by a factor of: ",float(Tmat[0,1])/Tmat[1,0]
+		print >> f, "\nQuestion askers Trigger Answer givers more by a factor of: ",float(Tmat[0,1])/Tmat[1,0]
 	else:
-		print >> f, "\nAnswer giver's Trigger Question asker's  more by a factor of: ",float(Tmat[1,0])/Tmat[0,1]		
+		print >> f, "\nAnswer givers Trigger Question askers more by a factor of: ",float(Tmat[1,0])/Tmat[0,1]		
 	f.close()
 def main():
 	if len(sys.argv) < 1:
