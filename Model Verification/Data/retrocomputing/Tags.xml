@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tags>
+  <row Id="1" TagName="pdp-6" Count="1" />
+  <row Id="2" TagName="software" Count="9" ExcerptPostId="566" WikiPostId="565" />
+  <row Id="3" TagName="nes" Count="2" ExcerptPostId="19" WikiPostId="18" />
+  <row Id="4" TagName="snes" Count="2" ExcerptPostId="120" WikiPostId="119" />
+  <row Id="6" TagName="game-cartridge" Count="3" ExcerptPostId="585" WikiPostId="584" />
+  <row Id="7" TagName="cleaning" Count="4" ExcerptPostId="148" WikiPostId="147" />
+  <row Id="9" TagName="color-computer" Count="15" ExcerptPostId="316" WikiPostId="315" />
+  <row Id="10" TagName="program-pak" Count="1" />
+  <row Id="12" TagName="floppy-disk" Count="10" ExcerptPostId="82" WikiPostId="81" />
+  <row Id="13" TagName="archival" Count="2" />
+  <row Id="14" TagName="dec" Count="2" ExcerptPostId="350" WikiPostId="349" />
+  <row Id="15" TagName="commodore-64" Count="18" ExcerptPostId="17" WikiPostId="16" />
+  <row Id="16" TagName="power" Count="2" ExcerptPostId="726" WikiPostId="725" />
+  <row Id="18" TagName="zx-spectrum" Count="13" ExcerptPostId="15" WikiPostId="14" />
+  <row Id="19" TagName="hardware" Count="20" ExcerptPostId="132" WikiPostId="131" />
+  <row Id="20" TagName="cassette" Count="2" />
+  <row Id="21" TagName="maintenance" Count="6" ExcerptPostId="21" WikiPostId="20" />
+  <row Id="22" TagName="hx-20" Count="1" />
+  <row Id="23" TagName="epson" Count="1" ExcerptPostId="23" WikiPostId="22" />
+  <row Id="24" TagName="belt" Count="1" />
+  <row Id="25" TagName="amiga" Count="27" ExcerptPostId="84" WikiPostId="83" />
+  <row Id="26" TagName="6809" Count="2" ExcerptPostId="374" WikiPostId="373" />
+  <row Id="31" TagName="atari" Count="10" ExcerptPostId="46" WikiPostId="45" />
+  <row Id="33" TagName="emulation" Count="15" ExcerptPostId="48" WikiPostId="47" />
+  <row Id="34" TagName="data-transfer" Count="4" ExcerptPostId="68" WikiPostId="67" />
+  <row Id="35" TagName="apple" Count="4" ExcerptPostId="41" WikiPostId="40" />
+  <row Id="36" TagName="video" Count="4" ExcerptPostId="817" WikiPostId="816" />
+  <row Id="37" TagName="display" Count="5" ExcerptPostId="819" WikiPostId="818" />
+  <row Id="39" TagName="vga" Count="1" ExcerptPostId="744" WikiPostId="743" />
+  <row Id="40" TagName="s-video" Count="1" ExcerptPostId="112" WikiPostId="111" />
+  <row Id="41" TagName="apple-ii" Count="18" ExcerptPostId="50" WikiPostId="49" />
+  <row Id="42" TagName="copy-protection" Count="3" ExcerptPostId="72" WikiPostId="71" />
+  <row Id="43" TagName="hardware-mods" Count="3" ExcerptPostId="898" WikiPostId="897" />
+  <row Id="44" TagName="keyboards" Count="8" ExcerptPostId="673" WikiPostId="672" />
+  <row Id="45" TagName="graphics" Count="5" ExcerptPostId="222" WikiPostId="221" />
+  <row Id="46" TagName="apple-iigs" Count="5" ExcerptPostId="59" WikiPostId="58" />
+  <row Id="48" TagName="emac" Count="2" ExcerptPostId="76" WikiPostId="75" />
+  <row Id="49" TagName="restoration" Count="6" ExcerptPostId="78" WikiPostId="77" />
+  <row Id="50" TagName="disk-image" Count="2" ExcerptPostId="88" WikiPostId="87" />
+  <row Id="52" TagName="commodore-pet" Count="1" />
+  <row Id="53" TagName="6502" Count="4" ExcerptPostId="94" WikiPostId="93" />
+  <row Id="54" TagName="memory-layout" Count="3" />
+  <row Id="55" TagName="firmware" Count="1" />
+  <row Id="56" TagName="apple-lisa" Count="1" ExcerptPostId="102" WikiPostId="101" />
+  <row Id="57" TagName="history" Count="6" ExcerptPostId="181" WikiPostId="180" />
+  <row Id="58" TagName="game-boy" Count="2" ExcerptPostId="130" WikiPostId="129" />
+  <row Id="59" TagName="nintendo" Count="8" ExcerptPostId="122" WikiPostId="121" />
+  <row Id="61" TagName="amigashell" Count="1" />
+  <row Id="63" TagName="coco" Count="1" />
+  <row Id="64" TagName="sharp-el9000" Count="1" />
+  <row Id="65" TagName="dump" Count="1" />
+  <row Id="66" TagName="storage" Count="1" />
+  <row Id="68" TagName="overclocking" Count="1" ExcerptPostId="183" WikiPostId="182" />
+  <row Id="69" TagName="game-boy-advance" Count="1" />
+  <row Id="70" TagName="cassette-tape" Count="8" ExcerptPostId="156" WikiPostId="155" />
+  <row Id="71" TagName="amiga-500" Count="2" />
+  <row Id="72" TagName="connector" Count="1" ExcerptPostId="187" WikiPostId="186" />
+  <row Id="73" TagName="utilities" Count="1" />
+  <row Id="74" TagName="atari-basic" Count="3" ExcerptPostId="568" WikiPostId="567" />
+  <row Id="75" TagName="hard-disk" Count="4" ExcerptPostId="822" WikiPostId="821" />
+  <row Id="76" TagName="boot" Count="2" />
+  <row Id="77" TagName="toshiba" Count="1" />
+  <row Id="78" TagName="power-macintosh" Count="1" />
+  <row Id="79" TagName="linux" Count="2" ExcerptPostId="772" WikiPostId="771" />
+  <row Id="80" TagName="apple-macintosh" Count="6" ExcerptPostId="226" WikiPostId="225" />
+  <row Id="81" TagName="unicode" Count="1" ExcerptPostId="314" WikiPostId="313" />
+  <row Id="82" TagName="chassis" Count="1" />
+  <row Id="83" TagName="screw" Count="1" />
+  <row Id="84" TagName="case" Count="1" />
+  <row Id="87" TagName="software-recommendation" Count="5" ExcerptPostId="660" WikiPostId="659" />
+  <row Id="90" TagName="file-format" Count="2" ExcerptPostId="214" WikiPostId="213" />
+  <row Id="93" TagName="real-mode" Count="1" />
+  <row Id="94" TagName="protected-mode" Count="1" />
+  <row Id="95" TagName="80286" Count="2" ExcerptPostId="830" WikiPostId="829" />
+  <row Id="96" TagName="intel" Count="4" ExcerptPostId="627" WikiPostId="626" />
+  <row Id="97" TagName="msx" Count="3" ExcerptPostId="312" WikiPostId="311" />
+  <row Id="98" TagName="compilers" Count="2" />
+  <row Id="99" TagName="assembly" Count="5" ExcerptPostId="715" WikiPostId="714" />
+  <row Id="100" TagName="z80" Count="2" ExcerptPostId="769" WikiPostId="768" />
+  <row Id="101" TagName="r800" Count="1" />
+  <row Id="102" TagName="65816" Count="1" ExcerptPostId="232" WikiPostId="231" />
+  <row Id="103" TagName="cpc" Count="1" ExcerptPostId="531" WikiPostId="530" />
+  <row Id="105" TagName="mos-6520" Count="1" ExcerptPostId="241" WikiPostId="240" />
+  <row Id="106" TagName="mos-6522" Count="1" ExcerptPostId="243" WikiPostId="242" />
+  <row Id="107" TagName="mos-6526" Count="1" ExcerptPostId="245" WikiPostId="244" />
+  <row Id="108" TagName="testing" Count="1" />
+  <row Id="109" TagName="atari-800" Count="1" ExcerptPostId="766" WikiPostId="765" />
+  <row Id="110" TagName="cpc464" Count="1" />
+  <row Id="111" TagName="barcode" Count="1" />
+  <row Id="112" TagName="compatibility" Count="2" />
+  <row Id="113" TagName="amiga-workbench-1.3" Count="1" />
+  <row Id="114" TagName="disk-drive" Count="8" ExcerptPostId="262" WikiPostId="261" />
+  <row Id="115" TagName="oric-atmos" Count="1" ExcerptPostId="354" WikiPostId="353" />
+  <row Id="116" TagName="benchmarking" Count="2" />
+  <row Id="117" TagName="malware" Count="1" ExcerptPostId="276" WikiPostId="275" />
+  <row Id="118" TagName="atari-2600" Count="1" ExcerptPostId="280" WikiPostId="279" />
+  <row Id="119" TagName="sun-blade" Count="1" />
+  <row Id="120" TagName="sparc64" Count="1" />
+  <row Id="121" TagName="xband" Count="1" ExcerptPostId="290" WikiPostId="289" />
+  <row Id="122" TagName="modem" Count="2" ExcerptPostId="292" WikiPostId="291" />
+  <row Id="123" TagName="atari-falcon" Count="1" ExcerptPostId="295" WikiPostId="294" />
+  <row Id="124" TagName="driver" Count="1" ExcerptPostId="297" WikiPostId="296" />
+  <row Id="125" TagName="tos" Count="1" ExcerptPostId="299" WikiPostId="298" />
+  <row Id="126" TagName="acorn" Count="3" ExcerptPostId="346" WikiPostId="345" />
+  <row Id="127" TagName="electron" Count="1" ExcerptPostId="348" WikiPostId="347" />
+  <row Id="128" TagName="ms-dos" Count="6" ExcerptPostId="754" WikiPostId="753" />
+  <row Id="129" TagName="shell" Count="1" />
+  <row Id="130" TagName="color-basic" Count="2" />
+  <row Id="131" TagName="386" Count="2" ExcerptPostId="662" WikiPostId="661" />
+  <row Id="132" TagName="handheld" Count="1" />
+  <row Id="133" TagName="terminal" Count="2" ExcerptPostId="738" WikiPostId="737" />
+  <row Id="134" TagName="mainframe" Count="1" />
+  <row Id="135" TagName="audio" Count="4" ExcerptPostId="340" WikiPostId="339" />
+  <row Id="136" TagName="digital-audio" Count="3" ExcerptPostId="896" WikiPostId="895" />
+  <row Id="137" TagName="chip-8" Count="1" />
+  <row Id="138" TagName="programming" Count="7" ExcerptPostId="564" WikiPostId="563" />
+  <row Id="140" TagName="battery" Count="1" />
+  <row Id="141" TagName="pda" Count="1" />
+  <row Id="142" TagName="palm-zire" Count="1" />
+  <row Id="143" TagName="palm" Count="1" />
+  <row Id="144" TagName="8-bit-microcomputers" Count="2" ExcerptPostId="848" WikiPostId="847" />
+  <row Id="145" TagName="plastic" Count="3" ExcerptPostId="728" WikiPostId="727" />
+  <row Id="146" TagName="dosbox" Count="1" ExcerptPostId="387" WikiPostId="386" />
+  <row Id="147" TagName="applesoft-basic" Count="4" ExcerptPostId="571" WikiPostId="570" />
+  <row Id="148" TagName="thomson" Count="1" />
+  <row Id="149" TagName="rom" Count="5" ExcerptPostId="854" WikiPostId="853" />
+  <row Id="150" TagName="homemade" Count="1" />
+  <row Id="151" TagName="os-9" Count="1" />
+  <row Id="152" TagName="ide" Count="1" />
+  <row Id="153" TagName="hp" Count="1" />
+  <row Id="154" TagName="rubber" Count="1" />
+  <row Id="155" TagName="mouse" Count="3" ExcerptPostId="878" WikiPostId="877" />
+  <row Id="156" TagName="touchpad" Count="1" />
+  <row Id="157" TagName="jiffydos" Count="1" />
+  <row Id="158" TagName="operating-system" Count="2" ExcerptPostId="837" WikiPostId="836" />
+  <row Id="159" TagName="new-hardware-adaptation" Count="1" />
+  <row Id="160" TagName="gaming" Count="3" ExcerptPostId="851" WikiPostId="850" />
+  <row Id="162" TagName="basic" Count="4" ExcerptPostId="549" WikiPostId="548" />
+  <row Id="163" TagName="integer-basic" Count="1" />
+  <row Id="164" TagName="symbolics" Count="1" ExcerptPostId="511" WikiPostId="510" />
+  <row Id="165" TagName="ussr" Count="1" />
+  <row Id="166" TagName="simulator" Count="1" />
+  <row Id="167" TagName="chip" Count="2" />
+  <row Id="168" TagName="color-display" Count="2" />
+  <row Id="169" TagName="ntsc" Count="1" ExcerptPostId="736" WikiPostId="735" />
+  <row Id="170" TagName="pal" Count="1" ExcerptPostId="742" WikiPostId="741" />
+  <row Id="171" TagName="trs-80-model-iii" Count="1" ExcerptPostId="595" WikiPostId="594" />
+  <row Id="172" TagName="sprite" Count="2" />
+  <row Id="173" TagName="sgi" Count="1" ExcerptPostId="734" WikiPostId="733" />
+  <row Id="174" TagName="debug" Count="2" />
+  <row Id="175" TagName="8080" Count="4" ExcerptPostId="599" WikiPostId="598" />
+  <row Id="176" TagName="8085" Count="2" ExcerptPostId="601" WikiPostId="600" />
+  <row Id="177" TagName="intel-8080" Count="4" ExcerptPostId="629" WikiPostId="628" />
+  <row Id="178" TagName="m68k" Count="1" ExcerptPostId="740" WikiPostId="739" />
+  <row Id="179" TagName="nintendo-64" Count="4" ExcerptPostId="807" WikiPostId="806" />
+  <row Id="180" TagName="software-development-kit" Count="1" />
+  <row Id="181" TagName="arcade" Count="2" ExcerptPostId="625" WikiPostId="624" />
+  <row Id="182" TagName="bbc-micro" Count="2" ExcerptPostId="619" WikiPostId="618" />
+  <row Id="183" TagName="lvrom" Count="1" ExcerptPostId="621" WikiPostId="620" />
+  <row Id="184" TagName="scsi" Count="1" ExcerptPostId="731" WikiPostId="730" />
+  <row Id="185" TagName="apple-dos" Count="1" ExcerptPostId="834" WikiPostId="833" />
+  <row Id="186" TagName="disk-ii" Count="1" ExcerptPostId="832" WikiPostId="831" />
+  <row Id="187" TagName="joystick" Count="1" />
+  <row Id="188" TagName="hardware-testing" Count="1" />
+  <row Id="189" TagName="microsoft-basic" Count="1" ExcerptPostId="894" WikiPostId="893" />
+  <row Id="190" TagName="magnetic-tape" Count="1" ExcerptPostId="826" WikiPostId="825" />
+  <row Id="191" TagName="data-preservation" Count="3" ExcerptPostId="746" WikiPostId="745" />
+  <row Id="192" TagName="cp-m" Count="2" ExcerptPostId="698" WikiPostId="697" />
+  <row Id="193" TagName="hxc" Count="1" ExcerptPostId="828" WikiPostId="827" />
+  <row Id="194" TagName="imac" Count="1" ExcerptPostId="809" WikiPostId="808" />
+  <row Id="195" TagName="imac-g3" Count="1" ExcerptPostId="811" WikiPostId="810" />
+  <row Id="196" TagName="collectability" Count="1" ExcerptPostId="802" WikiPostId="801" />
+  <row Id="197" TagName="atari-400" Count="1" ExcerptPostId="764" WikiPostId="763" />
+  <row Id="198" TagName="membrane-keyboard" Count="2" ExcerptPostId="824" WikiPostId="823" />
+  <row Id="199" TagName="windows-95" Count="2" ExcerptPostId="785" WikiPostId="784" />
+  <row Id="200" TagName="licensing" Count="2" ExcerptPostId="783" WikiPostId="782" />
+  <row Id="201" TagName="vectrex" Count="1" ExcerptPostId="800" WikiPostId="799" />
+  <row Id="202" TagName="nintendo-64dd" Count="1" ExcerptPostId="805" WikiPostId="804" />
+  <row Id="203" TagName="powerpc" Count="2" ExcerptPostId="885" WikiPostId="884" />
+  <row Id="204" TagName="qemu" Count="1" ExcerptPostId="892" WikiPostId="891" />
+  <row Id="205" TagName="repair" Count="1" />
+  <row Id="206" TagName="vic-20" Count="1" />
+  <row Id="207" TagName="lcd-display" Count="1" />
+</tags>
