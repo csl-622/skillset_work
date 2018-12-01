@@ -1,0 +1,6 @@
+ To run the code, put the data in the "/Data" folder and run main.py script.
+ I have used N and K from different time instances (at 85% and 90% of the total time for which data was provided to us, which I will be referring to as T_max) to calculate the triggering matrix, T.
+ I have used the data till 90 percent of T_max and the total amount of data at T_max (Kc_infinity) to predict the number of users in different categories which should be present at T_max for the knowledge, K to reach the value given at T_max. We are using real world data from 20 different KBE sites to validate our model. The real world data is very closer to the expected values. I have shown this in the graph. The blue points represents the actual distribution of the real world users, and the red points represent the predicted number of users using this model.
+ The values of N and T at the three points specified at the beginning of main.py are stored in /NandT/ folder.
+ The values of triggering matrix are stored in the Triggering matrix folder.
+ The value of r, and thus R, which is equal to [r ; r] can be set at the beginning of the code.
