@@ -1,0 +1,6 @@
+N matrix (Diagonal matrix consisting of number of users in different categories):
+[[294   0]
+ [  0 268]]
+K matrix (Column matrix denoting the amount of knowledge built upto 85.0% of the time):
+[[ 963]
+ [2459]]
