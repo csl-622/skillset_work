@@ -1,0 +1,3 @@
+Trigerring matrix for opensource data:
+[[-2.09546971e-03  3.26591272e-03]
+ [-1.34188095e-06  4.55442138e-03]]

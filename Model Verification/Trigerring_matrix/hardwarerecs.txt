@@ -1,0 +1,3 @@
+Trigerring matrix for hardwarerecs data:
+[[-1.75715051e-03  5.08105124e-03]
+ [-7.68485684e-07  5.94923442e-03]]

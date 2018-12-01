@@ -1,0 +1,3 @@
+Trigerring matrix for elementaryos data:
+[[ 1.12298592e-02 -8.32844919e-03]
+ [ 7.76057942e-05  1.35031774e-03]]

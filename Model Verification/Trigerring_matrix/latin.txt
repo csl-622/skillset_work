@@ -1,0 +1,3 @@
+Trigerring matrix for latin data:
+[[ 0.2102645  -0.13554429]
+ [-0.0424783   0.05686232]]

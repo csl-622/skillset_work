@@ -1,0 +1,3 @@
+Trigerring matrix for 3dprinting data:
+[[ 0.05032795 -0.0207749 ]
+ [-0.0009213   0.01037305]]

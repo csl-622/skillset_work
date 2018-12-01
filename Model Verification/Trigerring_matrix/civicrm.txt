@@ -1,0 +1,3 @@
+Trigerring matrix for civicrm data:
+[[-2.29036911e-03  4.33846685e-03]
+ [-1.12924705e-07  1.14208273e-03]]

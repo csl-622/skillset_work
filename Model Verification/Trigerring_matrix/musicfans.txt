@@ -1,0 +1,3 @@
+Trigerring matrix for musicfans data:
+[[-3.72180055e-03  5.68684240e-03]
+ [-7.65010406e-06  4.74347866e-03]]

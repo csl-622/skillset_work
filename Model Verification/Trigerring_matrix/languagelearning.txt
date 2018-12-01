@@ -1,0 +1,3 @@
+Trigerring matrix for languagelearning data:
+[[ 0.00041988  0.01255172]
+ [-0.00157976  0.02443971]]

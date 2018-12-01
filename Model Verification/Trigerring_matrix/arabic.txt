@@ -1,0 +1,3 @@
+Trigerring matrix for arabic data:
+[[ 0.02203557  0.00683094]
+ [-0.00013219  0.02821271]]

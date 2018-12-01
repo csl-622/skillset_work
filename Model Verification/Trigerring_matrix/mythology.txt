@@ -1,0 +1,3 @@
+Trigerring matrix for mythology data:
+[[-0.00943521  0.0150475 ]
+ [-0.0001338   0.01055376]]

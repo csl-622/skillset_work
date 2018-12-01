@@ -1,0 +1,3 @@
+Trigerring matrix for crafts data:
+[[ 0.50108225 -0.31804408]
+ [-0.18377677  0.13916195]]

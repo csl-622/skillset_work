@@ -1,0 +1,3 @@
+Trigerring matrix for portuguese data:
+[[ 8.65813071e-03 -3.34750940e-04]
+ [-9.28159140e-06  1.04584947e-02]]
